@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<title>모빌씨앤씨 사내 자산 관리 시스템 | HTML List</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<style type="text/css">
+		table {table-layout:fixed;width:100%;border:1px solid #eee;}
+		body {padding:0 10px;letter-spacing:-0.1em;}
+		th, td {position:relative;padding:5px 4px;color:000;font-weight:normal;font-size:13px;text-align:left;border:1px solid #eee;  word-wrap: break-word;letter-spacing:0;}
+		th {color:#fff;background-color:#444;text-align:center;}	
+		td {color:#000;	}
+		.color td{border-top:1px solid #6B6B6B;}	
+		tr:hover{background:#eee;}
+		tr.div td {border-top:3px solid #000}
+		tr td:nth-child(1),tr td:nth-child(7),tr td:nth-child(8) {text-align:center;}
+		tr td:nth-child(2) {font-weight:bold;}
+		a {color:#2854d1;text-decoration:underline}
+		a:active, a:hover {text-decoration:underline}
+		h1 {font-size:30px;margin:20px;}
+		.tab {width:100%; margin-bottom:15px;}
+		.tab ul { margin:0; padding:0; display:-moz-box; /* Firefox */display:-webkit-box; /* Safari and Chrome */ display:box;  box-sizing:border-box;}
+		.tab li { list-style:none;  text-alig`n:center; box-sizing:border-box; height:30px;box-sizing:border-box; line-height:30px; border:1px solid #ccc; box-flex:1; -moz-box-flex:1; -webkit-box-flex:1; }
+		.tab li:first-child { border-left:0;box-sizing:border-box; }
+		.tab li a {display:block; height:100%; padding:0 10px; text-align:center; color:#444; text-decoration:none; }
+		.tab li.on { background:#ddd;}
+
+		@media (max-width: 640px) {
+			h1 {font-size:20px;margin:20px;}
+			/* th:nth-of-type(6) ~ th,td:nth-of-type(6) ~ td { display:none; } */
+		}
+
+	</style>
+
+	<script type="text/javascript" src="common/js/jquery-3.4.1.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			var list = $("tbody tr").length;
+			for ( i = 0 ; i <= list+1 ; i++ ){
+				$("tbody tr").eq(i).find("td:first-child").text(i+1);
+			}
+
+			if ($(window).width() < 640 ){
+				$("colgroup").html('<col width="25"><col span="4" width="50"><col width="100%">');
+			}
+			
+		});
+	</script>
+
+</head>
+<body>
+<div class="wrapper">
+
+	<h1>모빌씨앤씨 사내 자산 관리 시스템 | HTML List</h1>
+
+	<table>
+		<colgroup>
+			<col style="width:7%;" />
+			<col style="width:10%;" />
+			<col style="width:15%;" />
+			<col style="width:15%;" />
+			<col style="width:15%;" />
+			<col style="width:20%;" />
+			<col />
+		</colgroup>
+		<thead>
+			<tr>
+				<th scope="col">Folder</th>
+				<th scope="col">1 Depth</th>
+				<th scope="col">2 Depth</th>
+				<th scope="col">3 Depth</th>
+				<th scope="col">4 Depth</th>
+				<th scope="col">File name</th>
+				<th scope="col">memo</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>관리자</td>
+				<td>로그인</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="MO0000.html" target="_blank">MO0000.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>스플래시</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="MO0001.html" target="_blank">MO0001.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>로딩</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="MO0002.html" target="_blank">MO0002.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>오류</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="MO0003.html" target="_blank">MO0003.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>메인</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="MO0004.html" target="_blank">MO0004.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>전체메뉴</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="MO0005.html" target="_blank">MO0005.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td>자산조회</td>
+				<td>할당자산 조회</td>
+				<td></td>
+				<td><a href="MO1001.html" target="_blank">MO1001.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td>H/W 자산 조회</td>
+				<td></td>
+				<td><a href="MO1002.html" target="_blank">MO1002.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td>S/W 자산 조회</td>
+				<td></td>
+				<td><a href="MO1003.html" target="_blank">MO1003.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td>프로필</td>
+				<td></td>
+				<td></td>
+				<td><a href="MO1004.html" target="_blank">MO1004.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td>기기등록</td>
+				<td></td>
+				<td></td>
+				<td><a href="MO1005.html" target="_blank">MO1005.html</a></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>popup</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><a href="popup.html" target="_blank">popup.html</a></td>
+				<td></td>
+			</tr>
+		</tbody>
+		
+	</table>
+
+</div>
+</body>
+</html>

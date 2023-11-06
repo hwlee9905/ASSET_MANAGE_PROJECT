@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mcnc.bizmob.baseapp.dev.test" >
+4
+5    <uses-sdk
+5-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:5:15-41
+7        android:targetSdkVersion="31" />
+7-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:11:5-15:77
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:13:22-53
+13        android:label="Tests for com.mcnc.bizmob.baseapp.dev"
+13-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:15:22-75
+14        android:targetPackage="com.mcnc.bizmob.baseapp.dev" />
+14-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:12:22-73
+15
+16    <application android:debuggable="true" >
+16-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:8:9-60
+17-->C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\tmp\manifest\androidTest\dev\debug\tempFile1ProcessTestManifest4808078806161501533.xml:8:23-57
+18    </application>
+19
+20</manifest>

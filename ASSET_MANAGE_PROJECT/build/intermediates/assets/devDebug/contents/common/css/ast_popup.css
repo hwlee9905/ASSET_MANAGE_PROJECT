@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+/* popup */
+.dimmed_W { width:100%; min-height:100%; position:fixed; left:0; top:0; z-index:100; background:rgba(0,0,0,0.6);   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#1A000000, endColorstr=#1A000000);}
+.popupWrap {  position:absolute; left:50%; top:50%; z-index:101; -webkit-transform: translate(-50%,-50%);transform: translate(-50%,-50%);}
+.popupWrap.small { width:82.5%;}
+.pop_title { position:relative; height:39px; line-height:39px; padding:0 13px; font-size:0.938rem; color:#fff; background:#306095;}
+.pop_title .btn_close { position:absolute; right:0; top:0; text-indent:-99999px; width:60px; height:50px; background:url("../../common/images/btn_close.png") no-repeat center center;}
+.popCon { position:relative; padding:15px; background:#fff;}
+.popCon .pop_conText { line-height:1.5rem;}
+
+.popBtnArea { margin-top:14px;}
+.popBtnArea.type01 { margin-top:10px;}
+.popBtnArea .btnCol1 button { width:100%; height:40px; line-height:40px; margin-top:15px; font-size:0.875rem; text-align:center;}
+.popBtnArea .btnCol1 button:first-child { margin-top:0px;}
+.popBtnArea .btnCol1.type01 button { width:50%;}
+.popBtnArea .btnCol2 { display:-moz-box; /* Firefox */display:-webkit-box; /* Safari and Chrome */ display:box;}
+.popBtnArea .btnCol2 li { width:50%; padding-left:10px; box-flex:1; -moz-box-flex:1; -webkit-box-flex:1;}
+.popBtnArea .btnCol2 li:first-child { padding-left:0px;}
+.popBtnArea .btnCol2 li button { width:100%; height:40px; line-height:40px; font-size:0.875rem; text-align:center;}
+
+.popConText { line-height:1.5rem; font-size:0.938rem;}
+.popConText.smT { font-size:0.813rem; color:#9e9e9e;}
+.popInputS { display:block; padding:10px 0 5px;}
+.popInputS input[type=text] { width:100%; border:0px; font-size:0.938rem; background:#f8fafc;}
+
+/* popupFull */
+.popupFull header { position:relative; padding:20px 0 21px; text-align:center; background:#306095;}
+.popupFull header h1 { font-size:1.125rem; color:#fff; font-weight:normal;}
+.popupFull header .btn_close { position:absolute; left:0; top:0; width:65px; height:100%; text-indent:-99999px; background:url("../../common/images/icon_close.png") no-repeat center center; background-size:19px 19.5px;}
+
+.pop_textarea { width:100%; height:160px; padding:15px; font-size:0.938rem; background:#f8fafc; box-sizing:border-box;}
+
+.popCon .iconStarList { padding:0 0 15px 0; text-align:center;}
+.popCon .iconStarList .star { width:31px; height:27.5px; margin-right:7px; background:url("../../common/images/icon_starB.png") no-repeat center; background-size:31px auto;}
+.popCon .iconStarList .star:last-child { margin-right:0;}
+.popCon .iconStarList .star.active { background:url("../../common/images/icon_starB_active.png") no-repeat center; background-size:31px auto;}
+
+/* GNB메뉴 */
+.gnbWrap { position:relative; height:100%; z-index:10;}
+.gnbWrap .btn_close { width:18%; height:66px; position:absolute; right:0; top:12px; text-indent:-99999px; background:url("../../common/images/icon_close03.png") no-repeat center; background-size:21px auto;}
+.gnbConWrap { width:82%; height:100%; background:#fff; }
+
+.gnbHeader { position:relative; padding:30px 23px; color:#fff; background:#306095; }
+.gnbHeader > span { display:block; font-size:0.938rem;}
+.gnbHeader .notice { position:absolute; right:23px; top:30px; width:26.5px; height:26px; background:url("../../common/images/icon_notice.png") no-repeat center center; background-size:auto 26px;}
+.gnbHeader .notice .point { display:inline-block; position:absolute; right:-5px; top:-5px; width:16.5px; height:16.5px; border-radius:3rem; color:#fff; font-size:0.75rem; text-align:center; line-height:16.5px;  background:#fd3637;}
+.gnbHeader .name { padding-bottom:5px; font-size:1.375rem;}
+.gnbHeader .name span { font-size:1.875rem;}
+.gnbHeader .grade { padding-bottom:15px; color:#70a6e1;}
+.teamName { padding-bottom:8px;}
+.teamName span { position:relative; padding-left:14px;}
+.teamName span:before { content:""; position:absolute; left:7px; top:0; width:1px; height:14px; background:#fff;}
+.teamName span:first-child { padding-left:0;}
+.teamName span:first-child:before { width:0;}
+
+.gnbContent .menuList li button { width:100%; height:60px;  padding:20px 0 20px 25px; border-bottom:1px solid #dee1e7; text-align:left; color:#1c1c1c; font-size:1rem;}
+.gnbContent .menuList li button > span { position:relative; padding-right:22px;}
+.gnbContent .menuList li button .point { position:absolute; right:0; top:-3px; display:inline-block; width:16.5px; height:16.5px; border-radius:3rem; color:#fff; font-size:0.75rem; text-align:center; line-height:16.5px;  background:#fd3637;}
+
+.gnbFoot {background:#fff; display:-moz-box; /* Firefox */display:-webkit-box; /* Safari and Chrome */ display:box; border-top:1px solid #dee1e7;}
+.gnbFoot button { position:relative; height:50px; display:block; box-flex:1; -moz-box-flex:1; -webkit-box-flex:1;  box-sizing:border-box;}
+.gnbFoot button:before { content:""; position:absolute; left:-16px; top:50%; width:1px; height:20px; background:#dee1e7; -webkit-transform: translateY(-50%);transform: translateY(-50%);}
+.gnbFoot button span { display:inline-block; padding-left:23px; color:#1c1c1c; font-size:1rem; line-height:22px;}
+.gnbFoot button:first-child span:before { width:0;}
+.icon_set { padding-left:24px; background:url("../../common/images/icon_set.png") no-repeat left center; background-size:18px auto;}
+.icon_logout { background:url("../../common/images/icon_logout02.png") no-repeat left center; background-size:18px auto;}
+.icon_close { background:url("../../common/images/icon_close02.png") no-repeat left center; background-size:18px auto;};
+
+/* scroll */
+.gnbTopFix { position:fixed; top:0; left:0; right:18%; z-index:1}
+.gnbScrollArea {overflow:hidden;overflow-y:auto;position:absolute;top:0;bottom:0;left:0;right:18%; -webkit-overflow-scrolling: touch; background:#fff;}
+.gnbFoot { position:fixed; right:18%; bottom:0; left:0;}
+
+
+

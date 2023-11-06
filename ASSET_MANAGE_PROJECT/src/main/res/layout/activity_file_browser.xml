@@ -1,0 +1,41 @@
+<!--
+ * 01.화면설명 : 아래의 관련 클래스에서 기본 화면 틀로 사용되는 베이스 화면
+ * 02.관련 클래스 : DeviceRegistActivity.java, LauncherFragment.java, MainFragment.java
+ * 03.수정이력
+ * ***************************************************************************************************<br>
+ *  수정일                          이름                                  변경 내용<br>
+ * ***************************************************************************************************<br>
+ *  2016-10-06                      박재민                                최초 작성<br>
+ * ***************************************************************************************************<br>
+ *
+ * @author 박재민
+ * @version 1.0
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/red"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="파일 브라우저"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_file_browser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

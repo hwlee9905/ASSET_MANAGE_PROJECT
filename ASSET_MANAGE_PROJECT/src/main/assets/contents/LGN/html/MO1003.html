@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="-1">
+	<meta name="format-detection" content="telephone=no" />
+	<title>모빌씨앤씨 사내 자산 관리 시스템</title>
+	<link type="text/css" rel="stylesheet" href="../resources/css/common.css" />
+	<script type="text/javascript" src="../resources/js/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="../resources/js/ui.js"></script>
+	<script type="text/javascript" src="../../bizMOB/bizMOB3.js"></script>
+	<script type="text/javascript" src="../js/MO1003.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('.acc-items .acc-cont').css('display','none');
+			$('.acc-items:first-child .acc-cont').css('display','block');
+			
+			var menu_tab = $('.acc-tab'), menu_item = $('.acc-items .acc-cont');  
+			menu_tab.click(function(e){ 
+				  e.preventDefault();  
+				  menu_tab.removeClass('acc-active');
+				  menu_item.slideUp('nomal');  
+				  
+				  if($(this).closest(".acc-items").children(".acc-cont").is(':hidden') == true) {  
+						 $(this).addClass('acc-active');
+						 $(this).closest(".acc-items").children(".acc-cont").slideDown('nomal');		
+					}
+				});  
+		});
+	</script>
+</head>
+<body class="bg-2">
+	<div class="wrap asset-wrap">
+		<header>
+			<h1>JIKIMI<sup>TM</sup></h1>
+		</header>
+		
+		<section class="contents">
+			<div class="srch-area">
+				<label>S/W 자산 목록</label>
+				<div class="inp-set">
+					<input type="text" placeholder="자산을 검색하세요." />
+					<button type="button" class="btn-inp-srch">검색</button>
+				</div>
+			</div>
+			
+			<div class="list-wrap">
+				<div class="alignBtn">
+					<button type="button">자산구분</button>
+					<button type="button">현사용자</button>
+					<button type="button">자산상태</button>
+				</div>
+				
+				<div class="list-area scr-y">
+					<div class="acc-items">
+						<div class="acc-tit">
+							<label><input type="checkbox" /></label>
+							<span>한글</span>
+							<span>박지현</span>
+							<span class="state type-1">입고</span>
+							<button type="button" class="acc-tab acc-active">탭버튼</button>
+						</div>
+						<ul class="acc-cont">
+							<li>
+								<label>자산번호</label>
+								<input type="text" />
+							</li>
+							<li>
+								<label>제조사</label>
+								<input type="text" />
+							</li>
+							<li>
+								<label>부서</label>
+								<input type="text" />
+							</li>
+							<li>
+								<label>만료기간</label>
+								<input type="text" />
+							</li>
+						</ul>
+					</div>
+					<div class="acc-items">
+						<div class="acc-tit">
+							<label><input type="checkbox" /></label>
+							<span>D</span>
+							<span>박지현</span>
+							<span class="state type-2">출고</span>
+							<button type="button" class="acc-tab">탭버튼</button>
+						</div>
+						<ul class="acc-cont">
+							<li>
+								<label>자산번호</label>
+								<input type="text" />
+							</li>
+							<li>
+								<label>제조사</label>
+								<input type="text" />
+							</li>
+							<li>
+								<label>부서</label>
+								<input type="text" />
+							</li>
+							<li>
+								<label>만료기간</label>
+								<input type="text" />
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<footer class="foot-menu">
+			<div class="openBtn">
+				<span><button type="button" class="btn-srch">자산조회</button></span>
+			</div>
+			<ul class="menu-list">
+				<li><button type="button" class="btn-home">홈</button></li>
+				<li class="mr40"><button type="button" class="btn-device">기기정보</button></li>
+				<li class="ml40"><button type="button" class="btn-user">프로필</button></li>
+				<li><button type="button" class="btn-menu">전체메뉴</button></li>
+			</ul>
+		</footer>
+	</div>
+	
+	<!-- dim menu [s] -->
+	<div class="dimmed-foot">
+		<div class="closeBtn">
+			<span><button type="button" class="btn-close">자산조회</button></span>
+		</div>
+		<div class="pop-menu">
+			<button type="button" class="btn-menu1">할당자산</button>
+			<button type="button" class="btn-menu3">H/W자산</button>
+		</div>
+	</div>
+	<!-- // dim menu [e] -->
+	
+</body>
+</html>

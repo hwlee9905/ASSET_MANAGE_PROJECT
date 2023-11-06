@@ -1,0 +1,26 @@
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-play-services-basement-18.1.0-0 C:\Users\9905h\.gradle\caches\transforms-3\0bc9b5081fbdafbc743c60d9be612fe2\transformed\jetified-play-services-basement-18.1.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-biometric-1.2.0-alpha03-1 C:\Users\9905h\.gradle\caches\transforms-3\2a5ee406bded50fecd25967b938e137e\transformed\biometric-1.2.0-alpha03\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-firebase-common-20.3.2-2 C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-appcompat-1.2.0-3 C:\Users\9905h\.gradle\caches\transforms-3\3c40f327a5e3774150a62b1696f3846f\transformed\appcompat-1.2.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-BM_Core_release-4 C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-firebase-messaging-22.0.0-5 C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-browser-1.4.0-6 C:\Users\9905h\.gradle\caches\transforms-3\6737e317d82c37c7bc408edec02e0d3c\transformed\browser-1.4.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-fragment-1.2.5-7 C:\Users\9905h\.gradle\caches\transforms-3\6e5a362f125afa9248906b8693b13c17\transformed\fragment-1.2.5\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-coordinatorlayout-1.0.0-8 C:\Users\9905h\.gradle\caches\transforms-3\81389de886121a6bae031021959a16bd\transformed\coordinatorlayout-1.0.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-play-services-base-18.0.1-9 C:\Users\9905h\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-appcompat-resources-1.2.0-10 C:\Users\9905h\.gradle\caches\transforms-3\988026de69c98d2409c1482f47577be4\transformed\jetified-appcompat-resources-1.2.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-zxing-android-embedded-3.6.0-11 C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-core-1.3.2-12 C:\Users\9905h\.gradle\caches\transforms-3\f66778c3e2ad252175ce3b200893f9d5\transformed\core-1.3.2\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-jetified-biometric-ktx-1.2.0-alpha03-13 C:\Users\9905h\.gradle\caches\transforms-3\f9c53e1a61554e20a4429d698892b85c\transformed\jetified-biometric-ktx-1.2.0-alpha03\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-media-1.0.0-14 C:\Users\9905h\.gradle\caches\transforms-3\fdc6016f15f26e8d855942be95a63247\transformed\media-1.0.0\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-15 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\build\generated\res\google-services\dev\debug
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\build\generated\res\pngs\dev\debug
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-17 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\build\generated\res\resValues\dev\debug
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-18 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\build\generated\res\rs\dev\debug
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-19 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\build\intermediates\incremental\devDebug\mergeDevDebugResources\merged.dir
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-20 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\build\intermediates\incremental\devDebug\mergeDevDebugResources\stripped.dir
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\build\intermediates\merged_res\devDebug
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-debug-22 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\debug\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-23 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\dev\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-devDebug-24 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\devDebug\res
+com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25 C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\res

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">451505410032-3m2ge5kkm15dl5bc5745gp8rieda5u7c.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">451505410032</string>
+    <string name="google_api_key" translatable="false">AIzaSyC6oe3_jFn6lflwYTcfkgAQsoMgXSbFtf8</string>
+    <string name="google_app_id" translatable="false">1:451505410032:android:6296773c68da31a329d735</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC6oe3_jFn6lflwYTcfkgAQsoMgXSbFtf8</string>
+    <string name="google_storage_bucket" translatable="false">mcnc-1.appspot.com</string>
+    <string name="project_id" translatable="false">mcnc-1</string>
+</resources>

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-19:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\9905h\\.gradle\\caches\\transforms-3\\5e36ed39a36f6eb5cc6997765e3dd1e0\\transformed\\jetified-BM_Core_release\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}

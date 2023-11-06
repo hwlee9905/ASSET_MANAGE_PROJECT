@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "notokr-medium";
+    src: url("../fonts/notokr-medium.woff") format("woff"),
+    	  url("../fonts/notokr-medium.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "notokr-Bold";
+    src: url("../fonts/notokr-bold.woff") format("woff"),
+    	  url("../fonts/notokr-bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}

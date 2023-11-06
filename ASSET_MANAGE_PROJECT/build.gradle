@@ -1,0 +1,160 @@
+apply plugin: 'com.android.application'
+import javax.crypto.spec.IvParameterSpec
+import javax.crypto.spec.SecretKeySpec
+
+import javax.crypto.Cipher
+ext {
+    chiperKey = "cipherKey".padRight(16).getBytes("UTF-8")
+    iv = "cipherKey".padRight(16).getBytes("UTF-8")
+}
+
+task encodeAES256 {
+    doLast {
+        SecretKeySpec key = new SecretKeySpec(chiperKey, "AES")
+        Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5Padding")
+        cipher.init(Cipher.ENCRYPT_MODE, key, new IvParameterSpec(iv))
+        def strSettings = new String(file('src/main/res/raw/bizmob_settings.xml').bytes)
+
+        if(strSettings.contains("release")) {
+            def encBytes = (cipher.doFinal(file('src/main/res/raw/bizmob_settings.xml').bytes)).encodeBase64()
+            def out = file('src/main/res/raw/bizmob_settings.xml')
+            out.delete()
+            out << encBytes
+        }
+    }
+}
+
+task decodeAES256 {
+    doLast {
+        def cipherText = new String(file('src/main/res/raw/bizmob_settings.xml').bytes).decodeBase64()
+        Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5Padding")
+        SecretKeySpec key = new SecretKeySpec(chiperKey, "AES")
+        cipher.init(Cipher.DECRYPT_MODE, key, new IvParameterSpec(iv))
+        def decBytes = cipher.doFinal(cipherText)
+        def out = file('src/main/res/raw/bizmob_settings.xml')
+        out.delete()
+        out << decBytes
+    }
+}
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion '31.0.0'
+    useLibrary 'org.apache.http.legacy'
+    flavorDimensions "default"
+    defaultConfig {
+        applicationId "com.mcnc.bizmob.manageapp" // 패키지명
+        multiDexEnabled true
+        //multiDex 허용 여부. (classes.dex파일에 메소드가 65535개가 넘는경우) 여러 dex파일로 나눌 수 있게 함.
+        minSdkVersion 19
+        targetSdkVersion 31
+    }
+
+    productFlavors {
+        //개발버전 빌드 정보
+        dev {
+            versionCode 1
+            versionName "1.0.0"
+            applicationId "com.mcnc.bizmob.manageapp.dev"
+            manifestPlaceholders = [applicationLabel: "@string/app_dev_name"] //앱이름 정의
+        }
+
+        //운영버전 빌드 정보
+        product {
+            versionCode 1
+            versionName "1.0.0"
+            applicationId "com.mcnc.bizmob.manageapp"
+            manifestPlaceholders = [applicationLabel: "@string/app_name"]
+        }
+    }
+
+    //키스토어 설정 정보
+    signingConfigs {
+        release {
+            storeFile file("signature/bizmob35.jks")  //keystore 파일 위치
+            storePassword "gomcnc"
+            keyAlias "mcnc"
+            keyPassword "gomcnc"
+        }
+    }
+
+    //빌드 타입
+    buildTypes {
+        //운영 버전
+        release {
+            debuggable false //debugging 불가하게.
+            minifyEnabled true // proguard 적용 여부.
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //proguard 설정 정보 파일 위치
+            signingConfig signingConfigs.release // keystore 설정 정보 값.
+        }
+        //개발 버전
+        debug {
+            debuggable true
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    //dex 파일 관련 옵션 설정.
+    dexOptions {
+        preDexLibraries = false // pre dexing 여부 (미사용 시, 빌드 속도 향상)
+    }
+
+    //packing시 아래 파일들을 제외함.
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/dependencies.txt'
+        exclude 'META-INF/LGPL2.1'
+    }
+
+    //다국어 번역 누락 시 해당 사항을 오류로 잡아 내는데, 이 빌드 에러를 막기 위한 옵션.
+    lintOptions {
+        checkReleaseBuilds false
+    }
+
+    //Drawable recource 관련 AAPT의 cruncher 사용을 막기 위함.
+    aaptOptions {
+        cruncherEnabled = false
+    }
+
+    configurations { implementation.exclude group: 'org.jetbrains', module: 'annotations' }
+}
+
+dependencies {
+
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation("com.android.volley:volley:1.2.1")
+    implementation ':BM_Core_release:@aar'
+    implementation ':BM_Plugin_release:@aar'
+
+    implementation('com.journeyapps:zxing-android-embedded:3.6.0') {
+        exclude module: 'support-v4'
+    }
+    //Glide library
+    implementation('com.github.bumptech.glide:glide:3.7.0') {
+        exclude module: 'support-v4'
+    }
+    implementation files('libs/nanohttpd-2.2.0.jar')
+    implementation files('libs/Java-WebSocket-1.3.0.jar')
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'androidx.multidex:multidex:2.0.0'
+    implementation 'com.google.firebase:firebase-messaging:22.0.0'
+    implementation "androidx.biometric:biometric-ktx:1.2.0-alpha03"
+    implementation 'com.google.firebase:firebase-auth:22.1.1'
+    implementation 'com.google.firebase:firebase-firestore:24.7.1'
+}
+
+// 빌드 모드 평가 이후 bizmob_settings.xml 파일 암호화 실시.
+preBuild.dependsOn encodeAES256
+apply plugin: 'com.google.gms.google-services'

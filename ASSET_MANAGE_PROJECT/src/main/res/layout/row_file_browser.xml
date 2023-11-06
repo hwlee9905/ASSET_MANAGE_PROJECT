@@ -1,0 +1,35 @@
+<!--
+ * 01.화면설명 : FileBrowserActivity(LIstActivity)에서 Adapter가 보여줄 row item의 뷰.
+ * 02.관련 클래스 : FileBrowserActivity.java
+ * 03.수정이력
+ * ***************************************************************************************************<br>
+ *  수정일                          이름                                  변경 내용<br>
+ * ***************************************************************************************************<br>
+ *  2016-12-01                      박재민                                최초 작성<br>
+ * ***************************************************************************************************<br>
+ *
+ * @author 박재민
+ * @version 1.0
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left|center_vertical"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/iv_folder"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:background="@drawable/img_folder"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_file_name"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginLeft="5dp"
+        android:gravity="center_vertical"
+        android:textSize="20sp"
+        android:textStyle="bold"></TextView>
+</LinearLayout>

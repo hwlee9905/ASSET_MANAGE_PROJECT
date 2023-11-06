@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-19:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\9905h\\Downloads\\ASSET_MANAGE_PROJECT\\BM35_CORE_PROJECT (2)\\ASSET_MANAGE_PROJECT\\ASSET_MANAGE_PROJECT\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "4,6,2,7,8,5,3",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "152,257,57,300,351,201,107",
+                        "endColumns": "47,41,48,49,48,54,43",
+                        "endOffsets": "195,294,101,345,395,251,146"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,145,194,244,293,348",
+                        "endColumns": "47,41,48,49,48,54,43",
+                        "endOffsets": "98,140,189,239,288,343,387"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Nov 06 02:23:27 KST 2023
+base.0=C\:\\Users\\9905h\\Downloads\\BM35_CORE_PROJECT (2)\\BM35_CORE_PROJECT (2)\\BM35_CORE_PROJECT\\BM_Project\\build\\intermediates\\dex\\devDebugAndroidTest\\mergeDexDevDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

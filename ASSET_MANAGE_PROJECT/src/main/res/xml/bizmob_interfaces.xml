@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<plugins>
+
+    <!-- core plugin-->
+    <plugin
+        key="UPDATE"
+        value="com.mcnc.bizmob.core.plugin.UpdatePlugin" />
+    <plugin
+        key="SET_APP"
+        value="com.mcnc.bizmob.core.plugin.SetAppPlugin" />
+    <plugin
+        key="APPLICATION_EXIT"
+        value="com.mcnc.bizmob.core.plugin.ApplicationExitPlugin" />
+    <plugin
+        key="AUTH"
+        value="com.mcnc.bizmob.core.plugin.AuthPlugin" />
+    <plugin
+        key="SHOW_WEB"
+        value="com.mcnc.bizmob.core.plugin.ViewManagerPlugin" />
+    <plugin
+        key="GET_DEVICEINFO"
+        value="com.mcnc.bizmob.core.plugin.DeviceInfoPlugin" />
+    <plugin
+        key="RELOAD_WEB"
+        value="com.mcnc.bizmob.core.plugin.HttpPlugin" />
+    <plugin
+        key="SET_FSTORAGE"
+        value="com.mcnc.bizmob.core.plugin.StoragePlugin" />
+    <plugin
+        key="SET_MSTORAGE"
+        value="com.mcnc.bizmob.core.plugin.StoragePlugin" />
+    <plugin
+        key="REMOVE_FSTORAGE"
+        value="com.mcnc.bizmob.core.plugin.StoragePlugin" />
+    <plugin
+        key="REMOVE_MSTORAGE"
+        value="com.mcnc.bizmob.core.plugin.StoragePlugin" />
+
+    <plugin
+        key="SHOW_POPUP_VIEW"
+        value="com.mcnc.bizmob.core.plugin.PopupViewPlugin" />
+    <plugin
+        key="DISMISS_POPUP_VIEW"
+        value="com.mcnc.bizmob.core.plugin.PopupViewPlugin" />
+    <plugin
+        key="SHOW_SETTING_VIEW"
+        value="com.mcnc.bizmob.core.plugin.SettingViewPlugin" />
+    <plugin
+        key="DOWNLOAD"
+        value="com.mcnc.bizmob.core.plugin.DownloadPlugin" />
+    <plugin
+        key="FILE_UPLOAD"
+        value="com.mcnc.bizmob.core.plugin.UploadPlugin" />
+    <plugin
+        key="ZIP_FILE"
+        value="com.mcnc.bizmob.core.plugin.ZipPlugin" />
+    <plugin
+        key="UNZIP_FILE"
+        value="com.mcnc.bizmob.core.plugin.ZipPlugin" />
+    <plugin
+        key="SHOW_PROGRESS"
+        value="com.mcnc.bizmob.core.plugin.ProgressPlugin" />
+    <plugin
+        key="DISMISS_PROGRESS"
+        value="com.mcnc.bizmob.core.plugin.ProgressPlugin" />
+    <plugin
+        key="UPDATE_PROGRESS"
+        value="com.mcnc.bizmob.core.plugin.ProgressPlugin" />
+    <plugin
+        key="OPEN_FILE"
+        value="com.mcnc.bizmob.core.plugin.OpenFilePlugin" />
+    <plugin
+        key="POPUP_MESSAGE_BOX"
+        value="com.mcnc.bizmob.core.plugin.PopupMessageBoxPlugin" />
+    <plugin
+        key="SET_SESSION_TIMEOUT"
+        value="com.mcnc.bizmob.core.plugin.SessionTimeoutPlugin" />
+    <plugin
+        key="POP_VIEW"
+        value="com.mcnc.bizmob.core.plugin.ViewManagerPlugin" />
+    <plugin
+        key="CAMERA_CAPTURE"
+        value="com.mcnc.bizmob.core.plugin.CameraPlugin" />
+
+    <plugin
+        key="GET_LOCATION"
+        value="com.mcnc.bizmob.core.plugin.GMSLocationPlugin" />
+
+    <plugin
+        key="MOVE_FILE"
+        value="com.mcnc.bizmob.core.plugin.FilePlugin" />
+    <plugin
+        key="COPY_FILE"
+        value="com.mcnc.bizmob.core.plugin.FilePlugin" />
+    <plugin
+        key="REMOVE_FILES"
+        value="com.mcnc.bizmob.core.plugin.FilePlugin" />
+    <plugin
+        key="GET_DIRECTORY_INFO"
+        value="com.mcnc.bizmob.core.plugin.FilePlugin" />
+    <plugin
+        key="EXISTS_FILE"
+        value="com.mcnc.bizmob.core.plugin.FilePlugin" />
+
+    <plugin
+        key="REPLACE_WEB"
+        value="com.mcnc.bizmob.core.plugin.ViewManagerPlugin" />
+    <plugin
+        key="SHOW_MESSAGE"
+        value="com.mcnc.bizmob.core.plugin.ShowMessagePlugin" />
+    <plugin
+        key="SHOW_IMAGE_VIEW"
+        value="com.mcnc.bizmob.core.plugin.ImageViewPlugin" />
+    <plugin
+        key="SMS"
+        value="com.mcnc.bizmob.core.plugin.TelephonyPlugin" />
+    <plugin
+        key="TEL"
+        value="com.mcnc.bizmob.core.plugin.TelephonyPlugin" />
+    <plugin
+        key="SHOW_WEBSITE"
+        value="com.mcnc.bizmob.core.plugin.ShowWebsitePlugin" />
+    <plugin
+        key="SHOW_MAP"
+        value="com.mcnc.bizmob.core.plugin.ShowMapPlugin" />
+    <plugin
+        key="GOTO_SIGNATURE"
+        value="com.mcnc.bizmob.core.plugin.SignaturePlugin" />
+    <plugin
+        key="GET_CONTACT"
+        value="com.mcnc.bizmob.core.plugin.ContactPlugin" />
+    <plugin
+        key="NAVIGATION"
+        value="com.mcnc.bizmob.core.plugin.NavigationPlugin" />
+
+    <!-- db -->
+    <plugin
+        key="OPEN_DATABASE"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <plugin
+        key="CLOSE_DATABASE"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <plugin
+        key="BEGIN_TRANSACTION"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <plugin
+        key="COMMIT_TRANSACTION"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <plugin
+        key="ROLLBACK_TRANSACTION"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <plugin
+        key="EXECUTE_SQL"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <plugin
+        key="EXECUTE_BATCH_SQL"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <plugin
+        key="EXECUTE_SELECT"
+        value="com.mcnc.bizmob.core.plugin.SQLitePlugin" />
+    <!-- db -->
+
+    <plugin
+        key="HARDWARE_BACKBUTTON"
+        value="com.mcnc.bizmob.core.plugin.AndroidBackButtonPlugin" />
+    <plugin
+        key="CREATE_MENU_VIEW"
+        value="com.mcnc.bizmob.core.plugin.ViewManagerPlugin" />
+    <plugin
+        key="SHOW_MENU_VIEW"
+        value="com.mcnc.bizmob.core.plugin.ViewManagerPlugin" />
+    <plugin
+        key="CLOSE_MENU_VIEW"
+        value="com.mcnc.bizmob.core.plugin.ViewManagerPlugin" />
+    <plugin
+        key="SEND_DATA_MENU_VIEW"
+        value="com.mcnc.bizmob.core.plugin.ViewManagerPlugin" />
+    <plugin
+        key="GET_IMAGE_INFO"
+        value="com.mcnc.bizmob.core.plugin.ImagePlugin" />
+    <plugin
+        key="RESIZE_IMAGE"
+        value="com.mcnc.bizmob.core.plugin.ImagePlugin" />
+    <plugin
+        key="ROTATE_IMAGE"
+        value="com.mcnc.bizmob.core.plugin.ImagePlugin" />
+
+    <plugin
+        key="GET_CRASH_LOG_VIEWER"
+        value="com.mcnc.bizmob.core.plugin.CrashLogViewerPlugin" />
+    <!-- core plugin-->
+
+    <!-- project plugin -->
+    <!-- push -->
+    <plugin
+        key="GET_PUSHKEY"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="PUSH_REGISTRATION"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="PUSH_UPDATE_ALARM_SETTING"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="PUSH_GET_MESSAGES"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="PUSH_MARK_AS_READ"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="PUSH_GET_UNREAD_PUSH_MESSAGE_COUNT"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="SET_BADGE_COUNT"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="PUSH_ALARM_SETTING_INFO"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="SEND_PUSH_MESSAGE"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="CHECK_PUSH_RECEIVED"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="GET_PUSH_MESSAGE_TYPE_LIST"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="GET_PUSH_AGREEMENT_INFO"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <plugin
+        key="UPDATE_PUSH_AGREEMENT_INFO"
+        value="com.mcnc.bizmob.plugin.base.PushPlugin" />
+    <!-- push -->
+
+    <plugin
+        key="QR_AND_BAR_CODE"
+        value="com.mcnc.bizmob.plugin.base.QrAndBarcodeReaderPlugin" />
+    <!-- project plugin -->
+
+    <!-- R&D-->
+    <plugin
+        key="CHECK_ROOTED"
+        value="com.mcnc.bizmob.plugin.base.RootingCheckPlugin" />
+    <plugin
+        key="APP_HASH_CHECK"
+        value="com.mcnc.bizmob.plugin.base.AppHashCheckPlugin" />
+
+    <plugin
+        key="CHECK_CONTENTS_INTEGRITY"
+        value="com.mcnc.bizmob.plugin.base.ContentsIntegrityPlugin" />
+
+    <plugin
+        key="OPEN_FILE_BROWSER"
+        value="com.mcnc.bizmob.plugin.base.FileBrowserPlugin" />
+
+    <plugin
+        key="PROGRESS_CONTROLLER"
+        value="com.mcnc.bizmob.plugin.base.ProgressControllerPlugin" />
+
+    <plugin
+        key="LOGVIEWER"
+        value="com.mcnc.bizmob.plugin.base.LogViewerPlugin" />
+
+    <plugin
+        key="SHOW_CUSTOM_PROGRESS"
+        value="com.mcnc.bizmob.plugin.base.CustomProgressPlugin" />
+
+    <plugin
+        key="DISMISS_CUSTOM_PROGRESS"
+        value="com.mcnc.bizmob.plugin.base.CustomProgressPlugin" />
+
+    <plugin
+        key="CHECK_NETWORK_STATE"
+        value="com.mcnc.bizmob.plugin.base.CheckNetworkStatePlugin" />
+    <!-- R&D -->
+    <!-- sample -->
+    <plugin
+        key="SAMPLE"
+        value="com.mcnc.bizmob.plugin.sample.SamplePlugin" />
+    <!-- sample -->
+
+    <plugin
+        key="OPEN_APPBROWSER"
+        value="com.mcnc.bizmob.plugin.base.InternalBrowserPlugin" />
+    <plugin
+        key="RUN_APPLICATION"
+        value="com.mcnc.bizmob.plugin.base.RunApplicationPlugin" />
+    <plugin
+        key="ADD_CONTACTS"
+        value="com.mcnc.bizmob.plugin.base.ContactPlugin" />
+    <plugin
+        key="DEL_CONTACT"
+        value="com.mcnc.bizmob.plugin.base.ContactPlugin" />
+
+    <plugin
+        key="SHOW_POPUP_VIEW_EX"
+        value="com.mcnc.bizmob.plugin.base.PopupViewExPlugin" />
+
+    <plugin
+        key="SCREEN_RECORDER_START"
+        value="com.mcnc.bizmob.plugin.base.ScreenRecorderPlugin" />
+
+    <plugin
+        key="SCREEN_RECORDER_END"
+        value="com.mcnc.bizmob.plugin.base.ScreenRecorderPlugin" />
+
+    <!--<plugin-->
+    <!--key="GET_MEDIA_PICK"-->
+    <!--value="com.mcnc.bizmob.core.plugin.MediaPickPlugin" />-->
+
+    <plugin
+        key="GET_MEDIA_PICK"
+        value="com.mcnc.bizmob.plugin.base.CustomGalleryPlugin" />
+
+    <plugin
+        key="BADGE_BUTTON"
+        value="com.mcnc.bizmob.plugin.base.SetAppPlugin" />
+
+    <plugin
+        key="GET_WEB_LOG_SERVER"
+        value="com.mcnc.bizmob.plugin.base.WebLogPlugin" />
+
+
+    <plugin
+        key="CLEAR_FSTORAGE"
+        value="com.mcnc.bizmob.plugin.base.StoragePlugin" />
+    <plugin
+        key="CLEAR_MSTORAGE"
+        value="com.mcnc.bizmob.plugin.base.StoragePlugin" />
+
+    <plugin
+        key="GET_FINGER_PRINT_DIALOG"
+        value="com.mcnc.bizmob.plugin.base.FingerPrintPlugin" />
+
+    <plugin
+        key="LOCALE"
+        value="com.mcnc.bizmob.plugin.base.LocalePlugin" />
+    <plugin
+        key="GET_NETWORK_INFO"
+        value="com.mcnc.bizmob.plugin.base.NetworkInfoPlugin" />
+
+    <plugin
+        key="SHOW_SECURE_KEYPAD"
+        value="com.mcnc.bizmob.plugin.base.GetSecureKeypadPlugin" />
+
+
+    <plugin
+        key="HIDE_SECURE_KEYPAD"
+        value="com.mcnc.bizmob.plugin.base.GetSecureKeypadPlugin" />
+
+    <!-- native plugin -->
+    <plugin
+        key="COMMUNICATOR"
+        value="com.mcnc.bizmob.plugin.nat.CommunicatorPlugin" />
+    <plugin
+        key="SHOW_NATIVE"
+        value="com.mcnc.bizmob.plugin.nat.ShowNativePlugin" />
+    <plugin
+        key="POP_NATIVE"
+        value="com.mcnc.bizmob.plugin.nat.ShowNativePlugin" />
+    <plugin
+        key="NATIVE_NAVIGATION"
+        value="com.mcnc.bizmob.plugin.nat.NativeNavigationPlugin" />
+    <plugin
+        key="NATIVE_UPDATE"
+        value="com.mcnc.bizmob.plugin.nat.NativeUpdatePlugin" />
+    <plugin
+        key="NATIVE_DOWNLOAD"
+        value="com.mcnc.bizmob.plugin.nat.NativeDownloadPlugin" />
+
+    <plugin
+        key="GET_REGISTERED_CALL_IDS"
+        value="com.mcnc.bizmob.plugin.base.GetRegisteredCallIdsPlugin" />
+
+    <!--향상 된 로케이션 플러그인-->
+    <plugin
+        key="GET_NEW_LOCATION"
+        value="com.mcnc.bizmob.plugin.base.NewLocationPlugin" />
+
+    <plugin
+        key="SAMPLE_PLUGIN"
+        value="com.mcnc.bizmob.plugin.sample.SamplePlugin" />
+
+    <plugin
+        key="PRACTICE_PLUGIN"
+        value="com.mcnc.bizmob.plugin.sample.PracticePlugin" />
+
+</plugins>

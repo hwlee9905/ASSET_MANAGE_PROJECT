@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app name-->
+    <string name="app_name">bizMOB 3.5</string>
+    <string name="app_dev_name">bizMOB 3.5 dev</string>
+
+    <!-- Base -->
+    <string name="txt_ok">OK</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_cancel">Cancel</string>
+
+    <!--Update -->
+    <string name="u2t_txt_title">AUTO UPDATE</string>
+    <string name="u2t_txt_appDown">Update\nApplication Download..</string>
+    <string name="u2t_txt_majorDown">Update\nMajor contents Download..</string>
+    <string name="u2t_txt_minorDown">Update\nMinor contents Download..</string>
+    <string name="u2t_txt_backup">Update\nApplied in preparation..</string>
+
+    <!--Progress -->
+    <string name="pleaseWait">Please wait.</string>
+
+    <!-- Auth -->
+    <string name="l2t_txt_tester">Connect the tester to start the app again</string>
+    <string name="l2t_txt_remoteWipe">Remotely deletes important information.</string>
+    <string name="l2t_txt_accessDenial">Limited Device.</string>
+    <string name="l2t_txt_dataInit">Data initializing..</string>
+
+    <!-- SessionTimeOut -->
+    <string name="ao_txt_autoLogout">The connection has been disconnected with unused for a long time. Please start the app again.</string>
+
+    <!-- Http -->
+    <string name="txt_denyWifi">Allow Not Wifi</string>
+
+    <!-- ImagePlugin -->
+    <string name="txt_image_converting">Converting image..</string>
+
+    <!--NetworkSettingActivity(Web log function)-->
+    <string name="txt_working_on_wifi_only">WiFi mode only</string>
+
+    <!--Download-->
+    <string name="txt_download_title">Download</string>
+    <string name="txt_downloading">Downloading..</string>
+
+    <!--Open file-->
+    <string name="txt_please_install">\nPlease install an app that can process it.</string>
+
+    <!--Logging -->
+    <string name="txt_logging_start">Logging started.</string>
+    <string name="txt_logging_end">Logging stopped.</string>
+    <string name="txt_log_delete">The log has been deleted.</string>
+
+    <!--Rooting detection-->
+    <string name="txt_rooting_detected">Rooting detected.\nThe app will be terminated.</string>
+    <string name="txt_contents_modified">Content has been modified.\nThe app will be terminated</string>
+    <string name="txt_contents_faking_checking">Content faking is being checked.</string>
+
+    <!-- Permission -->
+    <string name="txt_setting">Setting</string>
+    <string name="txt_exit">Exit</string>
+    <string name="txt_close">Close</string>
+    <string name="txt_permission_warning">Permission warning</string>
+    <string name="txt_required_permission_guide">You have to set permissions to launch the app. \n(Settings→Permissions→Phone, Storage→On)</string>
+
+    <!--Camera-->
+    <string name="txt_camera_permission_guide">You need to set permissions to use the camera functions. \n(Settings→Permissions→Camera→On)</string>
+
+    <!--Contact-->
+    <string name="txt_contact_permission_guide">You need to set permissions to check your address book information. \n(Settings→Permissions→Contact→On)</string>
+
+    <!--Location-->
+    <string name="txt_location_permission_guide">You need to set permissions to verify location information. \n(Settings→Permissions→Location→On)</string>
+
+    <!--Screen record-->
+    <string name="txt_screen_record_end">Screen recording ended.</string>
+    <string name="txt_screen_record_start">Screen recording started.</string>
+    <string name="txt_screen_record_cancel">Screen recording is canceled.</string>
+    <string name="txt_screen_record_permission_denied">Screen recording permission denied.</string>
+    <string name="txt_screen_record_guide">You need to set permissions for screen recording. \n(Settings→Permissions→Mic→On)</string>
+
+    <!--multi gallery-->
+    <string name="txt_multi_gallery_title">"Select pictures or videos"</string>
+    <string name="txt_multi_gallery_title_picture">"Select pictures"</string>
+    <string name="txt_multi_gallery_title_video">"Select videos"</string>
+    <string name="txt_multi_gallery_show_all">"Show all"</string>
+    <string name="txt_multi_gallery_cancel">"Cancel"</string>
+    <string name="txt_multi_gallery_select">"Ok"</string>
+    <string name="txt_multi_gallery_all">"All"</string>
+    <string name="txt_multi_gallery_picture">"Pictures"</string>
+    <string name="txt_multi_gallery_video">"Videos"</string>
+
+    <!--zxing barcode sacnner-->
+    <string name="txt_zxing_scan_guide">"Please set the bar code or QR code to the center square of the screen. If you wait until it is in focus, it will recognize automatically. (Do not let shadows shine on the barcode.)</string>
+
+</resources>

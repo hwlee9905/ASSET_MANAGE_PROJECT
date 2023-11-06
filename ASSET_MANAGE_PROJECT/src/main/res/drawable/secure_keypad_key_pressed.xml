@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/key_horizontal_gap"
+        android:right="@dimen/key_horizontal_gap">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/key_shadow_corner_radius" />
+            <gradient
+                android:angle="270"
+                android:centerColor="#000000"
+                android:endColor="@color/keyBackgroundShadow" />
+        </shape>
+    </item>
+
+    <item
+        android:bottom="@dimen/shadow_height"
+        android:left="@dimen/key_horizontal_gap"
+        android:right="@dimen/key_horizontal_gap"> 
+        <shape> 
+            <corners android:radius="@dimen/key_corner_radius" /> 
+            <solid android:color="@color/keyBackgroundPressed" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_native_update_progress_bar.9.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/native_update_progress_bar.9.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_ic_fingerprint_success.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_secure_keypad_icon_refresh.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/secure_keypad_icon_refresh.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_secure_keypad_ic_backspace.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/secure_keypad_ic_backspace.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_slide_out_left.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_secure_keypad_ic_shift_normal.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/secure_keypad_ic_shift_normal.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_secure_keypad_push_up_in.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_secure_keypad_push_up_in.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_internal_web_browser_btn_refresh.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-hdpi/internal_web_browser_btn_refresh.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_keep_right.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/keep_right.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_secure_keypad_ic_shift_caped.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/secure_keypad_ic_shift_caped.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_secure_keypad_key_background_selector.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/secure_keypad_key_background_selector.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_fade_in.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_fade_in.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_aof_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/aof_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_secure_keypad_ic_space_bar.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/secure_keypad_ic_space_bar.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_ic_fingerprint_success.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_ic_fingerprint_success.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_out_left.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_out_left.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_secure_keypad_icon_gap.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/secure_keypad_icon_gap.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_in_bottom.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_secure_keypad_ic_shift_caped.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/secure_keypad_ic_shift_caped.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_secure_keypad_icon_refresh.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/secure_keypad_icon_refresh.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_secure_keypad_ic_space_bar.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/secure_keypad_ic_space_bar.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_intro_bg.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/intro_bg.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_secure_keypad_ic_shift_caped.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/secure_keypad_ic_shift_caped.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_play_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/play_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_ic_fingerprint_error.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_row_spinner_item.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/row_spinner_item.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_fragment_native_launcher.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/fragment_native_launcher.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_ic_fingerprint_error.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_secure_keypad_ic_shift_normal.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/secure_keypad_ic_shift_normal.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_custom_barcode_scanner.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/custom_barcode_scanner.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_img_folder.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-hdpi/img_folder.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_secure_keypad_normal_special_key.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/secure_keypad_normal_special_key.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_image_aof_rectangle.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/image_aof_rectangle.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_ic_fingerprint_error.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_ic_fp_40px.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_scan.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/scan.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_pdf_fit.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/pdf_fit.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_ic_fingerprint_error.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/xml_secure_keypad_qwerty.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/xml/secure_keypad_qwerty.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_ic_fingerprint_success.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_secure_keypad_key_normal.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/secure_keypad_key_normal.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_pdf_minus.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/pdf_minus.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_ic_fp_40px.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/mipmap-xxhdpi-v24_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/mipmap-xxhdpi-v24/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_fade_out.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_fade_out.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_secure_keypad_ic_shift_caped.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/secure_keypad_ic_shift_caped.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_pdf_fit.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/pdf_fit.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_secure_keypad_icon_gap.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/secure_keypad_icon_gap.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_secure_keypad_ic_space_bar.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/secure_keypad_ic_space_bar.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_secure_keypad_ic_space_bar.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/secure_keypad_ic_space_bar.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_ic_fingerprint_success.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_layout_secure_keypad_number.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/layout_secure_keypad_number.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_ic_fingerprint_success.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_slide_in_top.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_view_internal_web_browser_search.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/view_internal_web_browser_search.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_multi_gallery_image_not_exist.jpg.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-hdpi/multi_gallery_image_not_exist.jpg"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_page_info.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/page_info.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_out_top.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_out_top.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_scroll.9.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/scroll.9.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_secure_keypad_ic_backspace.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/secure_keypad_ic_backspace.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_secure_keypad_ic_space_bar.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/secure_keypad_ic_space_bar.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_native_progress_bar.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/native_progress_bar.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_secure_keypad_icon_gap.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/secure_keypad_icon_gap.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_secure_keypad_ic_backspace.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/secure_keypad_ic_backspace.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/xml_secure_keypad_symbols_shift.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/xml/secure_keypad_symbols_shift.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_image_select_rectangle.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/image_select_rectangle.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/xml_bizmob_interfaces.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/xml/bizmob_interfaces.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_secure_keypad_key_preview_background.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/secure_keypad_key_preview_background.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_secure_keypad_ic_backspace.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/secure_keypad_ic_backspace.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_scan.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/scan.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_badge_button.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/badge_button.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_activity_internal_web_browser.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/activity_internal_web_browser.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_noti_icon.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/noti_icon.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_app_icon.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_out_right.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_out_right.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_aof_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/aof_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_secure_keypad_ic_shift_normal.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/secure_keypad_ic_shift_normal.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_secure_keypad_ic_shift_normal.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/secure_keypad_ic_shift_normal.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_image_title_rectangle_without_top.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/image_title_rectangle_without_top.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/xml_filepaths.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/xml/filepaths.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_slide_in_right.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_view_internal_web_browser_bottom.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/view_internal_web_browser_bottom.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_secure_keypad_ic_shift_caped.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/secure_keypad_ic_shift_caped.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_page_info.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/page_info.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_ic_fp_40px.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-mdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_item_multi_gallery_ablum_image_frame.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/item_multi_gallery_ablum_image_frame.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_secure_keypad_icon_refresh.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/secure_keypad_icon_refresh.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_ic_fingerprint_error.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/mipmap-xxxhdpi-v26_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/mipmap-xxxhdpi-v26/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_loading.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/loading.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_pdf_minus.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/pdf_minus.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_layout_secure_keypad_preview.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/layout_secure_keypad_preview.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_in_top.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_in_top.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_play_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/play_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_activity_custom_scanner.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/activity_custom_scanner.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_pdf_plus.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/pdf_plus.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_secure_keypad_icon_gap.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/secure_keypad_icon_gap.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_select_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/select_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_native_update_progress_bar_bg.9.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/native_update_progress_bar_bg.9.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_secure_keypad_icon_refresh.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/secure_keypad_icon_refresh.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_pdf_minus.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/pdf_minus.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_secure_keypad_icon_gap.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/secure_keypad_icon_gap.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_select_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/select_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_back_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/back_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_secure_keypad_ic_shift_caped.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/secure_keypad_ic_shift_caped.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/mipmap-xxxhdpi-v24_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/mipmap-xxxhdpi-v24/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_select_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/select_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_slide_in_bottom.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_layout_secure_keypad_text.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/layout_secure_keypad_text.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_secure_keypad_ic_backspace.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/secure_keypad_ic_backspace.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_row_file_browser.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/row_file_browser.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_ic_fp_40px.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_pdf_plus.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/pdf_plus.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_secure_keypad_push_up_out.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_secure_keypad_push_up_out.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_secure_keypad_ic_shift_caped.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/secure_keypad_ic_shift_caped.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_scroll.9.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/scroll.9.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_secure_keypad_ic_shift_normal.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/secure_keypad_ic_shift_normal.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_app_icon.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_app_icon.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_scroll.9.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/scroll.9.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_keep_position.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/keep_position.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_ic_fp_40px.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-hdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_aof_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/aof_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_ic_fingerprint_success.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_image_title_rectangle.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/image_title_rectangle.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_secure_keypad_icon_refresh.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/secure_keypad_icon_refresh.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/xml_secure_keypad_numeric.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/xml/secure_keypad_numeric.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_activity_multi_gallery_album.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/activity_multi_gallery_album.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/xml_secure_keypad_symbols.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/xml/secure_keypad_symbols.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_secure_keypad_icon_refresh.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/secure_keypad_icon_refresh.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_back_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/back_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_secure_keypad_ic_space_bar.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/secure_keypad_ic_space_bar.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-ldpi_secure_keypad_ic_backspace.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-ldpi/secure_keypad_ic_backspace.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_secure_keypad_icon_gap.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/secure_keypad_icon_gap.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-anydpi-v21_ic_fingerprint_error.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-anydpi-v21/ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_pdf_plus.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/pdf_plus.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_badge.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/badge.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_in_right.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_in_right.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_play_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/play_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_back_bt.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxhdpi/back_bt.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_in_left.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_in_left.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/raw_bizmob_settings.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/raw/bizmob_settings.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_ic_fingerprint_error.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_secure_keypad_ic_shift.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/secure_keypad_ic_shift.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_view_internal_web_browser_header.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/view_internal_web_browser_header.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-mdpi_secure_keypad_icon_refresh.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-mdpi/secure_keypad_icon_refresh.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_image_rectangle.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/image_rectangle.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable_secure_keypad_key_pressed.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable/secure_keypad_key_pressed.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_secure_keypad_icon_gap.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xhdpi/secure_keypad_icon_gap.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_page_info.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/page_info.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_secure_keypad_ic_space_bar.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/secure_keypad_ic_space_bar.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_scan.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xxxhdpi/scan.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxhdpi_secure_keypad_ic_shift_normal.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxhdpi/secure_keypad_ic_shift_normal.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xxxhdpi_secure_keypad_ic_backspace.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-xxxhdpi/secure_keypad_ic_backspace.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-hdpi_secure_keypad_ic_shift_normal.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-dev-16:/drawable-hdpi/secure_keypad_ic_shift_normal.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/layout_activity_file_browser.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/layout/activity_file_browser.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/drawable-xhdpi_pdf_fit.png.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/drawable-xhdpi/pdf_fit.png"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_slide_in_left.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-merged_res-21:/anim_anim_slide_out_bottom.xml.flat",
+        "source": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-main-25:/anim/anim_slide_out_bottom.xml"
+    }
+]

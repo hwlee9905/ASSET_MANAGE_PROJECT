@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mcnc.securekeypad.view.widget.SecureKeypadView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard_text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/keyboardBackgroundColor"
+    android:keyBackground="@drawable/secure_keypad_key_background_selector"
+    android:keyPreviewHeight="@dimen/key_preview_height"
+    android:keyPreviewLayout="@layout/layout_secure_keypad_preview"
+    android:keyPreviewOffset="@dimen/key_preview_offset"
+    android:keyTextColor="@color/keyTextColor"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    android:shadowRadius="0.0"
+    android:visibility="gone" />

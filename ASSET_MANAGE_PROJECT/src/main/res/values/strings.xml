@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 앱 이름-->
+    <string name="app_name">bizMOB 3.5</string>
+    <string name="app_dev_name">bizMOB 3.5 개발</string>
+
+    <!-- Alert 다이얼로그에 활용할 버튼 값 -->
+    <string name="txt_ok">확인</string>
+    <string name="txt_save">저장</string>
+    <string name="txt_cancel">취소</string>
+
+    <!--Update 작업 수행시 사용하는 문자열 -->
+    <string name="u2t_txt_title">자동 업데이트</string>
+    <string name="u2t_txt_appDown">앱 업데이트 다운로드 중..</string>
+    <string name="u2t_txt_majorDown">주요 업데이트 다운로드 중..</string>
+    <string name="u2t_txt_minorDown">변경 업데이트 다운로드 중..</string>
+    <string name="u2t_txt_backup">자동 업데이트\n항목 적용 준비중..</string>
+
+    <!--Progress 작업 수행시 사용하는 문자열 -->
+    <string name="pleaseWait">잠시만 기다려 주십시오.</string>
+
+    <!-- Auth 작업 수행시 사용하는 문자열  -->
+    <string name="l2t_txt_tester">테스터로 접속하였습니다.</string>
+    <string name="l2t_txt_remoteWipe">원격삭제 요청으로 중요 데이터를 삭제 합니다.</string>
+    <string name="l2t_txt_accessDenial">로그인이 제한되었습니다.</string>
+    <string name="l2t_txt_dataInit">데이터 초기화중입니다.</string>
+
+    <!-- session Timeout 발생 시 표시할 문자열 -->
+    <string name="ao_txt_autoLogout">장시간 미사용으로 접속이 끊어졌습니다. 다시 로그인하시기 바랍니다.</string>
+
+    <!-- WiFi 불허 시 Alert 다이얼로그에 표시할 문자열 -->
+    <string name="txt_denyWifi">정보보호를 위해서 WIFI로 접근 할 수 없습니다.</string>
+
+    <!--이미지 변환 작업 수행 시-->
+    <string name="txt_image_converting"> 이미지 변환 중..</string>
+
+    <!--네트워크 환경설저에서 Web Log 이용시 -->
+    <string name="txt_working_on_wifi_only">WiFi 에서만 실행 가능 합니다. </string>
+
+    <!--다운로드-->
+    <string name="txt_download_title">다운로드</string>
+    <string name="txt_downloading">다운로드 중 입니다..</string>
+
+    <!--파일 오픈-->
+    <string name="txt_please_install">\n처리 할 수 있는 앱을 설치해주세요.</string>
+
+    <!--로깅 -->
+    <string name="txt_logging_start">로깅이 시작 되었습니다.</string>
+    <string name="txt_logging_end">로깅이 중지 되었습니다.</string>
+    <string name="txt_log_delete">로그가 삭제 되었습니다.</string>
+
+    <!--위변조 감지-->
+    <string name="txt_rooting_detected">루팅이 감지 되었습니다.\n앱을 종료 합니다.</string>
+    <string name="txt_contents_modified">컨텐츠가 위변조 되었습니다.\n앱을 종료 합니다.</string>
+    <string name="txt_contents_faking_checking">컨텐츠 위변조 체크 중입니다.</string>
+
+    <!--퍼미션 관련 기본 문구-->
+    <string name="txt_setting">설정</string>
+    <string name="txt_exit">종료</string>
+    <string name="txt_close">닫기</string>
+    <string name="txt_permission_warning">퍼미션 경고</string>
+    <string name="txt_required_permission_guide">해당 권한은 앱 구동을 위해 필수로 필요한 권한입니다. \n(설정→권한→전화, 저장→On)</string>
+
+    <!--카메라-->
+    <string name="txt_camera_permission_guide">카메라 기능 사용을 위해서는 권한을 설정해야 합니다. \n(설정→권한→카메라→On)</string>
+
+    <!--주소록-->
+    <string name="txt_contact_permission_guide">주소록 정보 확인을 위해서는 권한을 설정해야 합니다. \n(설정→권한→주소록→On)</string>
+
+    <!--위치정보-->
+    <string name="txt_location_permission_guide">위치 정보 확인을 위해서는 권한을 설정해야 합니다. \n (설정→권한→위치→On)</string>
+
+    <!--화면 녹화-->
+    <string name="txt_screen_record_end">화면 녹화가 종료 되었습니다.</string>
+    <string name="txt_screen_record_start">화면 녹화가 시작 되었습니다.</string>
+    <string name="txt_screen_record_cancel">화면 녹화가 취소 되었습니다.</string>
+    <string name="txt_screen_record_permission_denied">화면 녹화 권한이 거부 되었습니다.</string>
+    <string name="txt_screen_record_guide">화면 녹화를 위해서는 권한을 설정해야 합니다. \n(설정→권한→마이크→On)</string>
+
+    <!--멀티갤러리-->
+    <string name="txt_multi_gallery_title">"사진 또는 동영상 선택"</string>
+    <string name="txt_multi_gallery_title_picture">"사진 선택"</string>
+    <string name="txt_multi_gallery_title_video">"동영상 선택"</string>
+    <string name="txt_multi_gallery_show_all">"전체보기"</string>
+    <string name="txt_multi_gallery_cancel">"취소"</string>
+    <string name="txt_multi_gallery_select">"선택완료"</string>
+    <string name="txt_multi_gallery_all">"전체"</string>
+    <string name="txt_multi_gallery_picture">"사진"</string>
+    <string name="txt_multi_gallery_video">"동영상"</string>
+
+    <!--zxing 바코드 스캐너-->
+    <string name="txt_zxing_scan_guide">"바코드 또는 QR 코드를 화면 중앙 사각형에 맞춰 주세요.\n초점이 맞을 때 까지 기다리시면 자동으로 인식합니다.\n(그림자 빛이 코드에 비치지 않게 해주세요.)</string>
+
+    <string name = "notification_default_channel_id">default</string>
+    <string name = "notification_default_click_action">com.mcnc.bizmob.view.DummyActivity</string>
+</resources>

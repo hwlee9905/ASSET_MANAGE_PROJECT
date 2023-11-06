@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport"
+          content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <title>guide</title>
+    <link type="text/css" rel="stylesheet" href="../css/common.css"/>
+    <script type="text/javascript" src="../js/jquery-1.11.1.js"></script>
+    <script type="text/javascript">
+	function applicationExit(){
+		Android.permissionDenied();
+	}
+	function checkPermission(){
+		Android.permissionGranted();
+	}
+    </script>
+</head>
+<body>
+<div class="popWrap">
+    <header>
+        <div class="headerWrap">
+            <h1><span>필수적 접근 권한 안내</span></h1>
+        </div>
+    </header>
+    <section>
+        <div class="con">
+            아래 필수적 접근 권한을 확인 및 허용해야 </br>서비스(앱)를 이용할 수 있습니다.
+        </div>
+
+        <div class="infor_con">
+            <h2 class="h2_title"><span>필수적 접근 권한</span></h2>
+            <ul class="menuList_wrap">
+                <li>
+                    <dl class="menuList sSpace first">
+                        <dt>저장공간</dt>
+                        <dd>기기 사진 미디어 파일 접근 권한으로 APP 구동을 위한 파일을 읽고 사용하기 위해서 사용합니다.</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="menuList call line">
+                        <dt>전화</dt>
+                        <dd>전화 걸기 및 관리 권한으로 사용자 식별 및 PUSH 환경 설정을 위해 사용합니다.</dd>
+                    </dl>
+                </li>
+            </ul>
+
+            <!--<div class="btnArea">-->
+                <!--<button><span>접근 권한 설정 메뉴 바로 가기</span></button>-->
+            <!--</div>-->
+        </div>
+    </section>
+    <section>
+        <div class="btnFoot type01">
+            <button id="btnExit" onClick="javascript:applicationExit()"><span>종료</span></button>
+            <button id="btnNext" onClick="javascript:checkPermission()"><span>확인</span></button>
+        </div>
+    </section>
+</div>
+</body>
+</html>
+  

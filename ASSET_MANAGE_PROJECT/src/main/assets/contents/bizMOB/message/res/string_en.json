@@ -1,0 +1,23 @@
+{
+    "ERROR" : 
+    {
+        "ERROR1" : "This is Error"
+    },
+    "WARN" : 
+    {
+        "WARN1" : "The Problem is happening. Please try again after a while."
+    },
+    "DIALOG" : 
+    {
+        "HELLO" : "Hello",
+    	"GOODBYE" : "Good bye"
+    },
+    "BUTTON" : 
+    {
+    	"ALERT1" : "Confirm",
+    	"ALERT2" : "Retry",
+    	"CONFIRM1" : "Confirm",
+    	"CONFIRM2" : "cancel",
+    	"CONFIRM3" : "Retry"
+    }
+}

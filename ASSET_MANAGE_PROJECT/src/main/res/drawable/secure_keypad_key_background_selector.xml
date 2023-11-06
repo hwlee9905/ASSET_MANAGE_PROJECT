@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Special Key Background-->
+    <item android:drawable="@drawable/secure_keypad_key_pressed" android:state_pressed="true" android:state_single="true" />
+    <item android:drawable="@drawable/secure_keypad_normal_special_key" android:state_single="true" />
+
+    <!--Gap Key Background Normal & Pressed-->
+    <item android:state_checkable="true" android:state_pressed="true">
+        <shape>
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <item android:state_checkable="true">
+        <shape>
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+
+    <!--Pressed key-->
+    <item android:drawable="@drawable/secure_keypad_key_pressed" android:state_pressed="true" />
+
+    <!-- Normal Key Background -->
+    <item android:drawable="@drawable/secure_keypad_key_normal" />
+</selector>

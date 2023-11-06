@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="42dp"
+    android:height="42dp"
+    android:viewportWidth="42"
+    android:viewportHeight="42">
+    <path
+        android:fillColor="#008cd6"
+        android:name="Ellipse 1"
+        android:pathData="m10.79 2.95c0.95 0 1.73 0.76 1.73 1.71c0 0.94 -0.77 1.71 -1.73 1.71c-0.95 0 -1.73 -0.76 -1.73 -1.71c0 -0.94 0.77 -1.71 1.73 -1.71z" />
+    <path
+        android:fillColor="#008cd6"
+        android:name="Ellipse 1 copy"
+        android:pathData="m21.4 1c1.36 0 2.47 1.09 2.47 2.44c0 1.35 -1.1 2.44 -2.47 2.44c-1.36 0 -2.47 -1.09 -2.47 -2.44c0 -1.35 1.1 -2.44 2.47 -2.44z" />
+    <path
+        android:fillColor="#008cd6"
+        android:name="Ellipse 1 copy 2"
+        android:pathData="m30.28 7.34c-1.91 0 -3.45 1.53 -3.45 3.41c0 1.88 1.55 3.41 3.45 3.41c1.91 0 3.45 -1.53 3.45 -3.41c0 -1.88 -1.55 -3.41 -3.45 -3.41zm-15.77 2.92c-0.01 0 -0.02 0 -0.02 0h-8.88c-2.89 0.35 -0.99 6.34 -0.99 6.34l6.91 19.01c1.55 4.04 4.44 4.39 4.44 4.39h8.88c2.47 -0.07 3.95 -3.41 3.95 -3.41l5.92 -15.6c0.99 -2.99 -0.99 -3.41 -0.99 -3.41h-7.4c-1.83 0.21 -2.96 3.41 -2.96 3.41l-0.99 1.95l-2.47 -6.83c-2.22 -5.72 -5.15 -5.85 -5.41 -5.85z" />
+</vector>

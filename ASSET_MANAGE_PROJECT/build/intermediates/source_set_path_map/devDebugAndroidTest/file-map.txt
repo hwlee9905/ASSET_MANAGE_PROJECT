@@ -1,0 +1,5 @@
+com.mcnc.bizmob.baseapp.test.BM_Project-dev-0 C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\generated\res\resValues\androidTest\dev\debug
+com.mcnc.bizmob.baseapp.test.BM_Project-dev-1 C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\generated\res\rs\androidTest\dev\debug
+com.mcnc.bizmob.baseapp.test.BM_Project-mergeDevDebugAndroidTestResources-2 C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\incremental\devDebugAndroidTest\mergeDevDebugAndroidTestResources\merged.dir
+com.mcnc.bizmob.baseapp.test.BM_Project-mergeDevDebugAndroidTestResources-3 C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\incremental\devDebugAndroidTest\mergeDevDebugAndroidTestResources\stripped.dir
+com.mcnc.bizmob.baseapp.test.BM_Project-merged_res-4 C:\Users\9905h\Downloads\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT (2)\BM35_CORE_PROJECT\BM_Project\build\intermediates\merged_res\devDebugAndroidTest
