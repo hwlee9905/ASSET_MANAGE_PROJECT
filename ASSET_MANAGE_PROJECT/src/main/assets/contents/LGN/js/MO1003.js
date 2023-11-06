@@ -51,7 +51,7 @@ var page = {
                 _bHardwareAccel: checkHardwareAccel()
             });
         });
-        $(".btn-menu1").click(function() {
+        $(".btn-menu22").click(function() {
             bizMOB.Window.open({
                 _sPagePath: "LGN/html/MO1001.html",
                 _sName: "selectAll",

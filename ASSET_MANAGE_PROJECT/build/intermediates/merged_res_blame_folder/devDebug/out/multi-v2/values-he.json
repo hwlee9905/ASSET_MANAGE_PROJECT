@@ -4,7 +4,7 @@
             "outputFile": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-19:/values-he/values-he.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\9905h\\.gradle\\caches\\transforms-3\\ddb36f17fd1da52e1348efbd7a4e3304\\transformed\\jetified-zxing-android-embedded-3.6.0\\res\\values-he\\values-he.xml",
+                    "source": "C:\\Users\\MCNC\\.gradle\\caches\\transforms-3\\ddb36f17fd1da52e1348efbd7a4e3304\\transformed\\jetified-zxing-android-embedded-3.6.0\\res\\values-he\\values-he.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

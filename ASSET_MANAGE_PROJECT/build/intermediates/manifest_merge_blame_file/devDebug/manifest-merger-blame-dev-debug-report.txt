@@ -6,458 +6,458 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml
+8-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml
+9-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml
 10
 11    <!-- 인터넷 관련 퍼미션 -->
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:7:5-67
-12-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:7:22-64
+12-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:7:22-64
 13    <!-- 전화 정보 관련 퍼미션 -->
 14    <uses-permission
-14-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:9:5-101
+14-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:9:5-101
 15        android:name="android.permission.READ_PHONE_STATE"
-15-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:9:22-72
+15-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:9:22-72
 16        android:maxSdkVersion="29" />
-16-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:9:73-99
+16-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:9:73-99
 17    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
-17-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:10:5-77
-17-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:10:22-74
+17-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:10:5-77
+17-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:10:22-74
 18    <!-- 전화 걸기 관련 퍼미션 -->
 19    <uses-permission android:name="android.permission.CALL_PHONE" />
-19-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:12:5-69
-19-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:12:22-66
+19-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:12:5-69
+19-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:12:22-66
 20    <!-- 저장소 읽고/쓰기 관련 퍼미션 -->
 21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-21-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:14:5-80
-21-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:14:22-77
+21-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:14:5-80
+21-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:14:22-77
 22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-22-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:15:5-81
-22-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:15:22-78
+22-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:15:5-81
+22-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:15:22-78
 23    <!-- 네트워크 상태 정보 수신 관련 퍼미션 -->
 24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-24-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:17:5-79
-24-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:17:22-76
+24-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:17:5-79
+24-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:17:22-76
 25    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
-25-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:18:5-79
-25-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:18:22-76
+25-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:18:5-79
+25-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:18:22-76
 26    <!-- wifi상태 정보 수신 관련 퍼미션 -->
 27    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-27-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:20:5-76
-27-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:20:22-73
+27-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:20:5-76
+27-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:20:22-73
 28    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-28-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:21:5-76
-28-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:21:22-73
+28-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:21:5-76
+28-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:21:22-73
 29    <!-- 폰 계정 접근 관련 퍼미션 -->
 30    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-30-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:23:5-71
-30-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:23:22-68
+30-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:23:5-71
+30-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:23:22-68
 31    <!-- GPS 관련 퍼미션 -->
 32    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-32-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:25:5-81
-32-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:25:22-78
+32-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:25:5-81
+32-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:25:22-78
 33    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-33-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:26:5-79
-33-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:26:22-76
+33-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:26:5-79
+33-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:26:22-76
 34    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
-34-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:27:5-89
-34-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:27:22-86
+34-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:27:5-89
+34-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:27:22-86
 35    <!-- 연락처 읽고 /쓰기 관련 퍼미션 -->
 36    <uses-permission android:name="android.permission.READ_CONTACTS" />
-36-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:29:5-72
-36-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:29:22-69
+36-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:29:5-72
+36-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:29:22-69
 37    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
-37-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:30:5-73
-37-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:30:22-70
+37-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:30:5-73
+37-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:30:22-70
 38    <!-- 프로세스 강제 종료 관련 퍼미션 -->
 39    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
-39-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:32:5-84
-39-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:32:22-81
+39-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:32:5-84
+39-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:32:22-81
 40    <!-- 문자 송수신 관련 퍼미션 -->
 41    <!-- <uses-permission android:name="android.permission.RECEIVE_SMS" /> -->
 42    <!-- <uses-permission android:name="android.permission.SEND_SMS" /> -->
 43    <!-- 화면 녹화 관련 퍼미션 -->
 44    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-44-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:37:5-71
-44-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:37:22-68
+44-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:37:5-71
+44-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:37:22-68
 45    <!-- 현재 실행된 작업 목록 조회 관련 퍼미션 -->
 46    <uses-permission android:name="android.permission.GET_TASKS" /> <!-- android 5.0(API 21) 부터 deprecated 됨 -->
-46-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:39:5-68
-46-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:39:22-65
+46-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:39:5-68
+46-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:39:22-65
 47    <!-- 지문인식 관련 퍼미션 -->
 48    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-48-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:41:5-72
-48-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:41:22-69
+48-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:41:5-72
+48-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:41:22-69
 49    <!-- 메시지 받을 때 wake up 하기 위해 -->
 50    <uses-permission android:name="android.permission.WAKE_LOCK" />
-50-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:43:5-68
-50-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:43:22-65
+50-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:43:5-68
+50-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:43:22-65
 51    <!-- 8.0 이상 '출처를 알수 없는 앱, 구글 악성 앱 확인' 를 위한 권한 -->
 52    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-52-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:45:5-82
-52-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:45:22-80
+52-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:45:5-82
+52-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:45:22-80
 53    <uses-permission android:name="com.mcnc.bizmob.manageapp.dev.permission.C2D_MESSAGE" />
-53-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:47:22-76
+53-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:47:22-76
 54
 55    <permission
 56        android:name="com.mcnc.bizmob.manageapp.dev.permission.C2D_MESSAGE"
-56-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:49:9-63
+56-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:49:9-63
 57        android:protectionLevel="signature" />
-57-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:50:9-44
+57-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:50:9-44
 58
 59    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-59-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:51:5-82
-59-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:51:22-79
+59-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:51:5-82
+59-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:51:22-79
 60    <uses-permission android:name="com.google.android.c2dm.permission.send" />
-60-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:52:5-79
-60-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:52:22-76
+60-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:52:5-79
+60-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:52:22-76
 61    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
-61-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
-61-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:22-62
+61-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+61-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:22-62
 62    <uses-feature
-62-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+62-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
 63        android:name="android.hardware.camera"
-63-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
+63-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
 64        android:required="false" />
-64-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
+64-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
 65    <uses-feature
-65-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+65-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
 66        android:name="android.hardware.camera.front"
-66-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+66-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
 67        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
-67-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+67-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
 68    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
 69    <uses-feature
-69-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+69-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
 70        android:name="android.hardware.camera.autofocus"
-70-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+70-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
 71        android:required="false" />
-71-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+71-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
 72    <uses-feature
-72-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+72-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
 73        android:name="android.hardware.camera.flash"
-73-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+73-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
 74        android:required="false" />
-74-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+74-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
 75    <uses-feature
-75-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+75-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
 76        android:name="android.hardware.screen.landscape"
-76-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+76-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
 77        android:required="false" />
-77-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+77-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
 78    <uses-feature
-78-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+78-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
 79        android:name="android.hardware.wifi"
-79-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+79-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
 80        android:required="false" /> <!-- suppress DeprecatedClassUsageInspection -->
-80-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+80-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
 81    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-81-->[androidx.biometric:biometric:1.2.0-alpha03] C:\Users\9905h\.gradle\caches\transforms-3\2a5ee406bded50fecd25967b938e137e\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:5-74
-81-->[androidx.biometric:biometric:1.2.0-alpha03] C:\Users\9905h\.gradle\caches\transforms-3\2a5ee406bded50fecd25967b938e137e\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:22-71
+81-->[androidx.biometric:biometric:1.2.0-alpha03] C:\Users\MCNC\.gradle\caches\transforms-3\2a5ee406bded50fecd25967b938e137e\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:5-74
+81-->[androidx.biometric:biometric:1.2.0-alpha03] C:\Users\MCNC\.gradle\caches\transforms-3\2a5ee406bded50fecd25967b938e137e\transformed\biometric-1.2.0-alpha03\AndroidManifest.xml:27:22-71
 82
 83    <application
 84        android:name="com.mcnc.bizmob.manage.Init"
-84-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:54:9-51
+84-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:54:9-51
 85        android:allowBackup="false"
-85-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:56:9-36
+85-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:56:9-36
 86        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-86-->[androidx.core:core:1.3.2] C:\Users\9905h\.gradle\caches\transforms-3\f66778c3e2ad252175ce3b200893f9d5\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+86-->[androidx.core:core:1.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\f66778c3e2ad252175ce3b200893f9d5\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
 87        android:debuggable="true"
 88        android:fullBackupContent="false"
-88-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:57:9-42
+88-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:57:9-42
 89        android:fullBackupOnly="false"
-89-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:58:9-39
+89-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:58:9-39
 90        android:hardwareAccelerated="true"
-90-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:59:9-43
+90-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:59:9-43
 91        android:icon="@mipmap/ic_launcher"
-91-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:60:9-43
+91-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:60:9-43
 92        android:label="@string/app_dev_name"
-92-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:61:9-44
+92-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:61:9-44
 93        android:largeHeap="true"
-93-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:62:9-33
+93-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:62:9-33
 94        android:requestLegacyExternalStorage="true"
-94-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:64:9-52
+94-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:64:9-52
 95        android:testOnly="true"
 96        android:theme="@style/AppTheme"
-96-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:63:9-40
+96-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:63:9-40
 97        android:usesCleartextTraffic="true" >
-97-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:55:9-44
+97-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:55:9-44
 98        <uses-library
-98-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:67:9-88
+98-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:67:9-88
 99            android:name="org.apache.http.legacy"
-99-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:67:23-60
+99-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:67:23-60
 100            android:required="false" />
-100-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:67:61-85
+100-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:67:61-85
 101
 102        <!-- Launcher Activity -->
 103        <activity
 104            android:name="com.mcnc.bizmob.manage.SlideFragmentActivity"
-104-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:71:13-72
+104-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:71:13-72
 105            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
-105-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:72:13-83
+105-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:72:13-83
 106            android:exported="true"
-106-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:75:13-36
+106-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:75:13-36
 107            android:label="@string/app_dev_name"
-107-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:73:13-48
+107-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:73:13-48
 108            android:screenOrientation="portrait"
-108-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:74:13-49
+108-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:74:13-49
 109            android:theme="@style/Theme.Translucent" >
-109-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:76:13-53
+109-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:76:13-53
 110            <intent-filter>
-110-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:77:13-81:29
+110-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:77:13-81:29
 111                <action android:name="android.intent.action.MAIN" />
-111-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:78:17-69
-111-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:78:25-66
+111-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:78:17-69
+111-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:78:25-66
 112
 113                <category android:name="android.intent.category.LAUNCHER" />
-113-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:80:17-77
-113-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:80:27-74
+113-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:80:17-77
+113-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:80:27-74
 114            </intent-filter>
 115        </activity>
 116
 117        <!-- 외부로 부터 Push나 Url Scheme을 통해 들어올때 처리하는 Activity -->
 118        <activity
 119            android:name="com.mcnc.bizmob.view.DummyActivity"
-119-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:86:13-62
+119-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:86:13-62
 120            android:exported="true"
-120-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:87:13-36
+120-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:87:13-36
 121            android:label="@string/app_dev_name" >
-121-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:88:13-48
+121-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:88:13-48
 122            <intent-filter>
-122-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:89:13-95:29
+122-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:89:13-95:29
 123                <category android:name="android.intent.category.DEFAULT" />
-123-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
-123-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
+123-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
+123-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
 124                <category android:name="android.intent.category.BROWSABLE" />
-124-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:17-78
-124-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:27-75
+124-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:17-78
+124-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:27-75
 125
 126                <action android:name="android.intent.action.VIEW" />
-126-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:17-69
-126-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:25-66
+126-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:17-69
+126-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:25-66
 127
 128                <data android:scheme="bizmob.base" />
-128-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:17-54
-128-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:23-51
+128-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:17-54
+128-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:23-51
 129            </intent-filter>
 130        </activity>
 131
 132        <!-- FCM notification click_action 처리 Activity -->
 133        <activity
 134            android:name="com.mcnc.bizmob.view.FcmControlActivity"
-134-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:100:13-67
+134-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:100:13-67
 135            android:exported="false"
-135-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:101:13-37
+135-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:101:13-37
 136            android:label="@string/app_dev_name" >
-136-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:102:13-48
+136-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:102:13-48
 137            <intent-filter>
-137-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:103:13-106:29
+137-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:103:13-106:29
 138                <category android:name="android.intent.category.DEFAULT" />
-138-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
-138-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
+138-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
+138-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
 139
 140                <action android:name="OPEN_FCM_CONTROL_ACTIVITY" />
-140-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:105:17-68
-140-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:105:25-65
+140-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:105:17-68
+140-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:105:25-65
 141            </intent-filter>
 142        </activity>
 143
 144        <!-- Qr and Barcode Reader 화면 -->
 145        <activity
-145-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:110:9-115:72
+145-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:110:9-115:72
 146            android:name="com.mcnc.bizmob.view.barcode.CaptureActivity"
-146-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:111:13-72
+146-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:111:13-72
 147            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
-147-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:112:13-83
+147-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:112:13-83
 148            android:screenOrientation="fullSensor"
-148-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:113:13-51
+148-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:113:13-51
 149            android:theme="@android:style/Theme.Light.NoTitleBar" />
-149-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:114:13-66
+149-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:114:13-66
 150
 151        <!-- Log file list Viewer Activity -->
 152        <activity
-152-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:118:9-120:69
+152-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:118:9-120:69
 153            android:name="com.mcnc.bizmob.view.log.LogViewerActivity"
-153-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:119:13-70
+153-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:119:13-70
 154            android:theme="@android:style/Theme.Light.NoTitleBar" />
-154-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:120:13-66
+154-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:120:13-66
 155
 156        <!-- File Browser Viewer Activity -->
 157        <activity
-157-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:123:9-125:69
+157-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:123:9-125:69
 158            android:name="com.mcnc.bizmob.view.filebrowser.FileBrowserActivity"
-158-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:124:13-80
+158-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:124:13-80
 159            android:theme="@android:style/Theme.Light.NoTitleBar" />
-159-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:125:13-66
+159-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:125:13-66
 160
 161        <!-- internal Browser Activity -->
 162        <activity
-162-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:128:9-131:57
+162-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:128:9-131:57
 163            android:name="com.mcnc.bizmob.view.internal.InternalBrowserActivity"
-163-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:129:13-81
+163-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:129:13-81
 164            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
-164-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:130:13-83
+164-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:130:13-83
 165            android:theme="@android:style/Theme.Light" />
-165-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:131:13-55
+165-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:131:13-55
 166
 167        <!-- custom Gallery Activity (Default Gallery View) -->
 168        <activity
-168-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:135:9-138:68
+168-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:135:9-138:68
 169            android:name="com.mcnc.bizmob.view.image.CustomGalleryActivity"
-169-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:136:13-76
+169-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:136:13-76
 170            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
-170-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:137:13-83
+170-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:137:13-83
 171            android:theme="@android:style/Theme.Light.NoTitleBar" />
-171-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:138:13-66
+171-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:138:13-66
 172
 173        <!-- local File Provider -->
 174        <provider
 175            android:name="com.mcnc.bizmob.core.provider.BMCLocalFileProvider"
-175-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:142:13-78
+175-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:142:13-78
 176            android:authorities="com.mcnc.bizmob.manageapp.dev.provider"
-176-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:143:13-60
+176-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:143:13-60
 177            android:exported="false" />
-177-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:144:13-37
+177-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:144:13-37
 178
 179        <!-- local File Provider -->
 180        <provider
 181            android:name="androidx.core.content.FileProvider"
-181-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:148:13-62
+181-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:148:13-62
 182            android:authorities="com.mcnc.bizmob.manageapp.dev.fileprovider"
-182-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:149:13-64
+182-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:149:13-64
 183            android:exported="false"
-183-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:150:13-37
+183-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:150:13-37
 184            android:grantUriPermissions="true" >
-184-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:151:13-47
+184-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:151:13-47
 185            <meta-data
-185-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:152:13-154:53
+185-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:152:13-154:53
 186                android:name="android.support.FILE_PROVIDER_PATHS"
-186-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:153:17-67
+186-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:153:17-67
 187                android:resource="@xml/filepaths" />
-187-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:154:17-50
+187-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:154:17-50
 188        </provider>
 189
 190        <!-- FCM service tag -->
 191        <service
-191-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:158:9-163:19
+191-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:158:9-163:19
 192            android:name="com.mcnc.bizmob.fcm.BMFirebaseMessagingService"
-192-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:158:18-79
+192-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:158:18-79
 193            android:exported="false" >
-193-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:159:13-37
+193-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:159:13-37
 194            <intent-filter>
-194-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:160:13-162:29
+194-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:160:13-162:29
 195                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-195-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:17-78
-195-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:25-75
+195-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:17-78
+195-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:25-75
 196            </intent-filter>
 197        </service>
 198
 199        <!-- FCM 관련 정보 -->
 200        <meta-data
-200-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:166:9-168:71
+200-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:166:9-168:71
 201            android:name="com.google.firebase.messaging.default_notification_channel_id"
-201-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:167:13-89
+201-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:167:13-89
 202            android:value="@string/notification_default_channel_id" />
-202-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:168:13-68
+202-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:168:13-68
 203        <meta-data
-203-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:169:9-171:54
+203-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:169:9-171:54
 204            android:name="com.google.firebase.messaging.default_notification_icon"
-204-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:170:13-83
+204-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:170:13-83
 205            android:resource="@drawable/noti_icon" />
-205-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:171:13-51
+205-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:171:13-51
 206
 207        <service
-207-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:172:9-178:19
+207-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:172:9-178:19
 208            android:name="com.mcnc.bizmob.plugin.sample.MessageClass"
-208-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:172:18-75
+208-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:172:18-75
 209            android:exported="false" >
-209-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:173:13-37
+209-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:173:13-37
 210            <intent-filter>
-210-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:174:13-177:29
+210-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:174:13-177:29
 211                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-211-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:17-78
-211-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:25-75
+211-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:17-78
+211-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:25-75
 212                <action android:name="com.google.android.c2dm.intent.Recieve" />
-212-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:176:17-80
-212-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:176:25-78
+212-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:176:17-80
+212-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:176:25-78
 213            </intent-filter>
 214        </service>
 215        <!-- device Regist Activity -->
 216        <activity
-216-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:18:9-21:52
+216-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:18:9-21:52
 217            android:name="com.mcnc.bizmob.core.view.deviceregist.DeviceRegistActivity"
-217-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:19:13-87
+217-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:19:13-87
 218            android:configChanges="orientation|keyboardHidden|screenSize"
-218-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:20:13-74
+218-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:20:13-74
 219            android:screenOrientation="portrait" /> <!-- signature Activity -->
-219-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:21:13-49
+219-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:21:13-49
 220        <activity
-220-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:24:9-27:59
+220-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:24:9-27:59
 221            android:name="com.mcnc.bizmob.core.view.signature.SignatureActivity"
-221-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:25:13-81
+221-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:25:13-81
 222            android:configChanges="orientation|keyboardHidden|screenSize"
-222-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:26:13-74
+222-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:26:13-74
 223            android:theme="@android:style/Theme.Dialog" /> <!-- image View Activity (Gallery View) -->
-223-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:27:13-56
+223-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:27:13-56
 224        <activity
-224-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:30:9-33:56
+224-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:30:9-33:56
 225            android:name="com.mcnc.bizmob.core.view.image.ImageViewerActivity"
-225-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:31:13-79
+225-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:31:13-79
 226            android:configChanges="orientation|keyboardHidden|screenSize"
-226-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:32:13-74
+226-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:32:13-74
 227            android:theme="@style/Theme.Translucent" /> <!-- network Setting Activity -->
-227-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:33:13-53
+227-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:33:13-53
 228        <activity
-228-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:36:9-38:77
+228-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:36:9-38:77
 229            android:name="com.mcnc.bizmob.core.view.networksetting.NetworkSettingActivity"
-229-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:37:13-91
+229-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:37:13-91
 230            android:configChanges="orientation|keyboardHidden|screenSize" /> <!-- crash Log file list Viewer Activity -->
-230-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:38:13-74
+230-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:38:13-74
 231        <activity
-231-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:41:9-44:72
+231-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:41:9-44:72
 232            android:name="com.mcnc.bizmob.core.view.crash.CrashLogListViewerActivity"
-232-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:42:13-86
+232-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:42:13-86
 233            android:configChanges="orientation|keyboardHidden|screenSize"
-233-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:43:13-74
+233-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:43:13-74
 234            android:theme="@android:style/Theme.DeviceDefault.Light" /> <!-- crash Log file Viewer Activity -->
-234-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:44:13-69
+234-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:44:13-69
 235        <activity
-235-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:47:9-50:69
+235-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:47:9-50:69
 236            android:name="com.mcnc.bizmob.core.view.crash.CrashLogViewerActivity"
-236-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:48:13-82
+236-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:48:13-82
 237            android:configChanges="orientation|keyboardHidden|screenSize"
-237-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:49:13-74
+237-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:49:13-74
 238            android:theme="@android:style/Theme.Light.NoTitleBar" />
-238-->[:BM_Core_release:] C:\Users\9905h\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:50:13-66
+238-->[:BM_Core_release:] C:\Users\MCNC\.gradle\caches\transforms-3\5e36ed39a36f6eb5cc6997765e3dd1e0\transformed\jetified-BM_Core_release\AndroidManifest.xml:50:13-66
 239        <activity
-239-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+239-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
 240            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-240-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+240-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
 241            android:clearTaskOnLaunch="true"
-241-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+241-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
 242            android:screenOrientation="sensorLandscape"
-242-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+242-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
 243            android:stateNotNeeded="true"
-243-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+243-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
 244            android:theme="@style/zxing_CaptureTheme"
-244-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+244-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
 245            android:windowSoftInputMode="stateAlwaysHidden" />
-245-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\9905h\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+245-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MCNC\.gradle\caches\transforms-3\ddb36f17fd1da52e1348efbd7a4e3304\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
 246
 247        <receiver
-247-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:28:9-35:20
+247-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:28:9-35:20
 248            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-248-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:29:13-78
+248-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:29:13-78
 249            android:exported="true"
-249-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:30:13-36
+249-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:30:13-36
 250            android:permission="com.google.android.c2dm.permission.SEND" >
-250-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:31:13-73
+250-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:31:13-73
 251            <intent-filter>
-251-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:32:13-34:29
+251-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:32:13-34:29
 252                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-252-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:17-81
-252-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:25-78
+252-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:17-81
+252-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:25-78
 253            </intent-filter>
 254        </receiver>
 255        <!--
@@ -465,185 +465,185 @@
 257             but set to not exported to explicitly avoid allowing another app to call it.
 258        -->
 259        <service
-259-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:41:9-48:19
+259-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:41:9-48:19
 260            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-260-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:42:13-82
+260-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:42:13-82
 261            android:directBootAware="true"
-261-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:43:13-43
+261-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:43:13-43
 262            android:exported="false" >
-262-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
+262-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
 263            <intent-filter android:priority="-500" >
-263-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:160:13-162:29
+263-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:160:13-162:29
 264                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-264-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:17-78
-264-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:25-75
+264-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:17-78
+264-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:161:25-75
 265            </intent-filter>
 266        </service>
 267        <service
-267-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
+267-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
 268            android:name="com.google.firebase.components.ComponentDiscoveryService"
-268-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:50:13-84
+268-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:50:13-84
 269            android:directBootAware="true"
-269-->[com.google.firebase:firebase-common:20.3.2] C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+269-->[com.google.firebase:firebase-common:20.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 270            android:exported="false" >
-270-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:51:13-37
+270-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:51:13-37
 271            <meta-data
-271-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:52:13-54:85
+271-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:52:13-54:85
 272                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-272-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:53:17-119
+272-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:53:17-119
 273                android:value="com.google.firebase.components.ComponentRegistrar" />
-273-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\9905h\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:54:17-82
+273-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\62cb6e12a91580d7e0cd34f62788fda9\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:54:17-82
 274            <meta-data
-274-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
+274-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
 275                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-275-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
+275-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
 276                android:value="com.google.firebase.components.ComponentRegistrar" />
-276-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
+276-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
 277            <meta-data
-277-->[com.google.firebase:firebase-firestore:24.7.1] C:\Users\9905h\.gradle\caches\transforms-3\b28f0a76d3fd3d861b3f53c2bc751f24\transformed\jetified-firebase-firestore-24.7.1\AndroidManifest.xml:17:13-19:85
+277-->[com.google.firebase:firebase-firestore:24.7.1] C:\Users\MCNC\.gradle\caches\transforms-3\b28f0a76d3fd3d861b3f53c2bc751f24\transformed\jetified-firebase-firestore-24.7.1\AndroidManifest.xml:17:13-19:85
 278                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-278-->[com.google.firebase:firebase-firestore:24.7.1] C:\Users\9905h\.gradle\caches\transforms-3\b28f0a76d3fd3d861b3f53c2bc751f24\transformed\jetified-firebase-firestore-24.7.1\AndroidManifest.xml:18:17-111
+278-->[com.google.firebase:firebase-firestore:24.7.1] C:\Users\MCNC\.gradle\caches\transforms-3\b28f0a76d3fd3d861b3f53c2bc751f24\transformed\jetified-firebase-firestore-24.7.1\AndroidManifest.xml:18:17-111
 279                android:value="com.google.firebase.components.ComponentRegistrar" />
-279-->[com.google.firebase:firebase-firestore:24.7.1] C:\Users\9905h\.gradle\caches\transforms-3\b28f0a76d3fd3d861b3f53c2bc751f24\transformed\jetified-firebase-firestore-24.7.1\AndroidManifest.xml:19:17-82
+279-->[com.google.firebase:firebase-firestore:24.7.1] C:\Users\MCNC\.gradle\caches\transforms-3\b28f0a76d3fd3d861b3f53c2bc751f24\transformed\jetified-firebase-firestore-24.7.1\AndroidManifest.xml:19:17-82
 280            <meta-data
-280-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\9905h\.gradle\caches\transforms-3\b782817b4bd19848ea63582804d02c39\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+280-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\b782817b4bd19848ea63582804d02c39\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
 281                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-281-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\9905h\.gradle\caches\transforms-3\b782817b4bd19848ea63582804d02c39\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+281-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\b782817b4bd19848ea63582804d02c39\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
 282                android:value="com.google.firebase.components.ComponentRegistrar" />
-282-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\9905h\.gradle\caches\transforms-3\b782817b4bd19848ea63582804d02c39\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+282-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\b782817b4bd19848ea63582804d02c39\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
 283            <meta-data
-283-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\9905h\.gradle\caches\transforms-3\b6a92db06bee32ecec3964a50057c0d1\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+283-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\b6a92db06bee32ecec3964a50057c0d1\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
 284                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-284-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\9905h\.gradle\caches\transforms-3\b6a92db06bee32ecec3964a50057c0d1\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+284-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\b6a92db06bee32ecec3964a50057c0d1\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
 285                android:value="com.google.firebase.components.ComponentRegistrar" />
-285-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\9905h\.gradle\caches\transforms-3\b6a92db06bee32ecec3964a50057c0d1\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+285-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\b6a92db06bee32ecec3964a50057c0d1\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
 286        </service>
 287
 288        <activity
-288-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
+288-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
 289            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-289-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
+289-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
 290            android:excludeFromRecents="true"
-290-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
+290-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
 291            android:exported="true"
-291-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
+291-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
 292            android:launchMode="singleTask"
-292-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
+292-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
 293            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-293-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
+293-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
 294            <intent-filter>
-294-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
+294-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
 295                <action android:name="android.intent.action.VIEW" />
-295-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:17-69
-295-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:25-66
+295-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:17-69
+295-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:25-66
 296
 297                <category android:name="android.intent.category.DEFAULT" />
-297-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
-297-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
+297-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
+297-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
 298                <category android:name="android.intent.category.BROWSABLE" />
-298-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:17-78
-298-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:27-75
+298-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:17-78
+298-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:27-75
 299
 300                <data
-300-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:17-54
+300-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:17-54
 301                    android:host="firebase.auth"
 302                    android:path="/"
 303                    android:scheme="genericidp" />
-303-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:23-51
+303-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:23-51
 304            </intent-filter>
 305        </activity>
 306        <activity
-306-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
+306-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
 307            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-307-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
+307-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
 308            android:excludeFromRecents="true"
-308-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
+308-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
 309            android:exported="true"
-309-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
+309-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
 310            android:launchMode="singleTask"
-310-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
+310-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
 311            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-311-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
+311-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
 312            <intent-filter>
-312-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\9905h\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
+312-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\MCNC\.gradle\caches\transforms-3\d8cc044996a4ac8b77c3dc3a15c3b362\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
 313                <action android:name="android.intent.action.VIEW" />
-313-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:17-69
-313-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:25-66
+313-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:17-69
+313-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:93:25-66
 314
 315                <category android:name="android.intent.category.DEFAULT" />
-315-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
-315-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
+315-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:17-76
+315-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:90:27-73
 316                <category android:name="android.intent.category.BROWSABLE" />
-316-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:17-78
-316-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:27-75
+316-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:17-78
+316-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:91:27-75
 317
 318                <data
-318-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:17-54
+318-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:17-54
 319                    android:host="firebase.auth"
 320                    android:path="/"
 321                    android:scheme="recaptcha" />
-321-->C:\Users\9905h\Downloads\ASSET_MANAGE_PROJECT\BM35_CORE_PROJECT (2)\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:23-51
+321-->C:\Users\MCNC\AndroidStudioProjects\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\ASSET_MANAGE_PROJECT\src\main\AndroidManifest.xml:94:23-51
 322            </intent-filter>
 323        </activity>
 324
 325        <provider
-325-->[com.google.firebase:firebase-common:20.3.2] C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+325-->[com.google.firebase:firebase-common:20.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
 326            android:name="com.google.firebase.provider.FirebaseInitProvider"
-326-->[com.google.firebase:firebase-common:20.3.2] C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+326-->[com.google.firebase:firebase-common:20.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:26:13-77
 327            android:authorities="com.mcnc.bizmob.manageapp.dev.firebaseinitprovider"
-327-->[com.google.firebase:firebase-common:20.3.2] C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+327-->[com.google.firebase:firebase-common:20.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:27:13-72
 328            android:directBootAware="true"
-328-->[com.google.firebase:firebase-common:20.3.2] C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+328-->[com.google.firebase:firebase-common:20.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
 329            android:exported="false"
-329-->[com.google.firebase:firebase-common:20.3.2] C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+329-->[com.google.firebase:firebase-common:20.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:29:13-37
 330            android:initOrder="100" />
-330-->[com.google.firebase:firebase-common:20.3.2] C:\Users\9905h\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+330-->[com.google.firebase:firebase-common:20.3.2] C:\Users\MCNC\.gradle\caches\transforms-3\35b3adac5597f4c77ea65d080630dd4a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:30:13-36
 331
 332        <activity
-332-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\9905h\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+332-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\MCNC\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 333            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-333-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\9905h\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+333-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\MCNC\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 334            android:exported="false"
-334-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\9905h\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+334-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\MCNC\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
 335            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-335-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\9905h\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+335-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\MCNC\.gradle\caches\transforms-3\8cc242c79306d048465c33a66c268c59\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 336
 337        <meta-data
-337-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\9905h\.gradle\caches\transforms-3\0bc9b5081fbdafbc743c60d9be612fe2\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+337-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\MCNC\.gradle\caches\transforms-3\0bc9b5081fbdafbc743c60d9be612fe2\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 338            android:name="com.google.android.gms.version"
-338-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\9905h\.gradle\caches\transforms-3\0bc9b5081fbdafbc743c60d9be612fe2\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+338-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\MCNC\.gradle\caches\transforms-3\0bc9b5081fbdafbc743c60d9be612fe2\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 339            android:value="@integer/google_play_services_version" />
-339-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\9905h\.gradle\caches\transforms-3\0bc9b5081fbdafbc743c60d9be612fe2\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+339-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\MCNC\.gradle\caches\transforms-3\0bc9b5081fbdafbc743c60d9be612fe2\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 340
 341        <service
-341-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+341-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
 342            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-342-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+342-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
 343            android:exported="false" >
-343-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+343-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
 344            <meta-data
-344-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+344-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
 345                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-345-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+345-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
 346                android:value="cct" />
-346-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+346-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\dad6d8b9c4eb7709ee9fdff5f757ec62\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
 347        </service>
 348        <service
-348-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+348-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
 349            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-349-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+349-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
 350            android:exported="false"
-350-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+350-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
 351            android:permission="android.permission.BIND_JOB_SERVICE" >
-351-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+351-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
 352        </service>
 353
 354        <receiver
-354-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+354-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
 355            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-355-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+355-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
 356            android:exported="false" />
-356-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\9905h\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+356-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\MCNC\.gradle\caches\transforms-3\2cd27dd6708c3677f2738d4cae89b52f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
 357    </application>
 358
 359</manifest>

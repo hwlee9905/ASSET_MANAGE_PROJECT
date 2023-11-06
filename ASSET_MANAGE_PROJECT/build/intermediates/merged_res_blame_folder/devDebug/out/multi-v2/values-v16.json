@@ -4,7 +4,7 @@
             "outputFile": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-19:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\9905h\\.gradle\\caches\\transforms-3\\3c40f327a5e3774150a62b1696f3846f\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\MCNC\\.gradle\\caches\\transforms-3\\3c40f327a5e3774150a62b1696f3846f\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\9905h\\.gradle\\caches\\transforms-3\\f66778c3e2ad252175ce3b200893f9d5\\transformed\\core-1.3.2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\MCNC\\.gradle\\caches\\transforms-3\\f66778c3e2ad252175ce3b200893f9d5\\transformed\\core-1.3.2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

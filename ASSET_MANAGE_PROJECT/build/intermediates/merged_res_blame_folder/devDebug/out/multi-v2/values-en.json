@@ -4,7 +4,7 @@
             "outputFile": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-19:/values-en/values-en.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\9905h\\Downloads\\ASSET_MANAGE_PROJECT\\BM35_CORE_PROJECT (2)\\ASSET_MANAGE_PROJECT\\ASSET_MANAGE_PROJECT\\src\\main\\res\\values-en\\strings.xml",
+                    "source": "C:\\Users\\MCNC\\AndroidStudioProjects\\ASSET_MANAGE_PROJECT\\ASSET_MANAGE_PROJECT\\ASSET_MANAGE_PROJECT\\src\\main\\res\\values-en\\strings.xml",
                     "from": {
                         "startLines": "29,5,4,25,26,24,23,20,65,10,60,68,55,54,32,41,42,59,35,71,50,49,48,87,85,88,86,84,81,82,83,89,8,61,45,62,53,9,76,74,78,77,75,58,38,92,14,17,15,16,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\9905h\\.gradle\\caches\\transforms-3\\5e36ed39a36f6eb5cc6997765e3dd1e0\\transformed\\jetified-BM_Core_release\\res\\values-en\\values-en.xml",
+                    "source": "C:\\Users\\MCNC\\.gradle\\caches\\transforms-3\\5e36ed39a36f6eb5cc6997765e3dd1e0\\transformed\\jetified-BM_Core_release\\res\\values-en\\values-en.xml",
                     "from": {
                         "startLines": "23,26",
                         "startColumns": "4,4",

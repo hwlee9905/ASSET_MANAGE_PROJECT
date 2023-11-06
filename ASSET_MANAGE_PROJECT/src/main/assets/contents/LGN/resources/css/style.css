@@ -30,6 +30,7 @@
 .dimmed-foot .pop-menu button { width: 60px; height:60px; color: #5F02F6; font-size: 0.625rem; font-weight: bold; padding-top:26px; border-radius:50%; position: absolute; top: 90px; left: 50%; opacity: 0; -webkit-transition: opacity 0.2s, -webkit-transform 0.1s; transition: opacity 0.2s, transform 0.1s; }
 .dimmed-foot .pop-menu.pop-menu-open .btn-menu1 { background:#fff url("../images/icon-sw.svg") top 10px center no-repeat; background-size:26px auto; -webkit-transform: translate(-160%, -50px); transform: translate(-160%, -50px); opacity: 1; }
 .dimmed-foot .pop-menu.pop-menu-open .btn-menu2 { background:#fff url("../images/icon-assigmt.svg") top 10px center no-repeat; background-size:26px auto; -webkit-transform: translate(-50%, -90px); transform: translate(-50%, -90px`); opacity: 1; }
+.dimmed-foot .pop-menu.pop-menu-open .btn-menu22 { background:#fff url("../images/icon-assigmt.svg") top 10px center no-repeat; background-size:26px auto; -webkit-transform: translate(-160%, -50px); transform: translate(-50%, -90px`); opacity: 1; }
 .dimmed-foot .pop-menu.pop-menu-open .btn-menu3 { background:#fff url("../images/icon-hw.svg") top 10px center no-repeat; background-size:26px auto; -webkit-transform: translate(60%, -50px); transform: translate(60%, -50px); opacity: 1; }
 
 

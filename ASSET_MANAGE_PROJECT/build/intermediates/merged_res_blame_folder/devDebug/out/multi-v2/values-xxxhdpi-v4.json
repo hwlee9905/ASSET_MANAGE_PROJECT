@@ -4,7 +4,7 @@
             "outputFile": "com.mcnc.bizmob.manageapp.ASSET_MANAGE_PROJECT-mergeDevDebugResources-19:/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\9905h\\Downloads\\ASSET_MANAGE_PROJECT\\BM35_CORE_PROJECT (2)\\ASSET_MANAGE_PROJECT\\ASSET_MANAGE_PROJECT\\src\\main\\res\\values-xxxhdpi\\dimens.xml",
+                    "source": "C:\\Users\\MCNC\\AndroidStudioProjects\\ASSET_MANAGE_PROJECT\\ASSET_MANAGE_PROJECT\\ASSET_MANAGE_PROJECT\\src\\main\\res\\values-xxxhdpi\\dimens.xml",
                     "from": {
                         "startLines": "4,6,2,7,8,5,3",
                         "startColumns": "4,4,4,4,4,4,4",
